@@ -1,1946 +1,1908 @@
-Gender,Year,charge,court_d,prep_h
-Male,2015,Attempt Murder,60.0,430.0
-Male,2014,Attempt Murder,60.0,450.0
-Male,2020,Attempt Murder,55.0,350.0
-Female,2013,Attempt Murder,55.0,440.0
-Male,2013,Attempt Murder,50.0,375.0
-Female,2017,Attempt Murder,50.0,380.0
-Female,2011,Attempt Murder,50.0,950.0
-Female,2012,Attempt Murder,45.0,20.0
-Female,2015,Attempt Murder,45.0,300.0
-Male,2012,Attempt Murder,45.0,450.0
-Female,2014,Attempt Murder,45.0,480.0
-Male,2018,Attempt Murder,40.0,250.0
-Male,2013,Attempt Murder,40.0,300.0
-Female,2013,Attempt Murder,40.0,325.0
-Male,2018,Attempt Murder,40.0,350.0
-Female,2017,Attempt Murder,40.0,400.0
-Male,2016,Attempt Murder,40.0,450.0
-Female,2019,Attempt Murder,40.0,450.0
-Female,2018,Attempt Murder,40.0,450.0
-Male,2019,Attempt Murder,35.0,250.0
-Female,2010,Attempt Murder,35.0,350.0
-Male,2011,Attempt Murder,33.0,760.0
-Male,2020,Attempt Murder,30.0,250.0
-Male,2012,Attempt Murder,30.0,300.0
-Female,2014,Attempt Murder,30.0,300.0
-Male,2019,Attempt Murder,30.0,350.0
-Male,2015,Attempt Murder,30.0,350.0
-Female,2020,Attempt Murder,30.0,400.0
-Male,2011,Attempt Murder,30.0,450.0
-Male,2014,Attempt Murder,29.0,420.0
-Male,2016,Attempt Murder,28.0,225.0
-Unknown,2011,Attempt Murder,25.0,250.0
-Female,2012,Attempt Murder,25.0,275.0
-Female,2016,Attempt Murder,25.0,300.0
-Female,2020,Attempt Murder,25.0,300.0
-Male,2012,Attempt Murder,25.0,375.0
-Male,2010,Attempt Murder,25.0,400.0
-Male,2014,Attempt Murder,25.0,450.0
-Female,2018,Attempt Murder,25.0,450.0
-Male,2019,Attempt Murder,22.0,275.0
-Unisex,2014,Attempt Murder,22.0,390.0
-Male,2010,Attempt Murder,20.0,325.0
-Female,2018,Attempt Murder,20.0,325.0
-Male,2016,Attempt Murder,20.0,350.0
-Female,2010,Attempt Murder,20.0,350.0
-Female,2013,Attempt Murder,20.0,360.0
-Female,2010,Attempt Murder,20.0,375.0
-Female,2013,Attempt Murder,20.0,400.0
-Female,2018,Attempt Murder,19.0,200.0
-Female,2011,Attempt Murder,16.0,220.0
-Male,2011,Attempt Murder,15.0,230.0
-Male,2017,Attempt Murder,15.0,230.0
-Female,2015,Attempt Murder,15.0,250.0
-Male,2016,Attempt Murder,15.0,256.0
-Male,2014,Attempt Murder,15.0,257.0
-Male,2020,Attempt Murder,15.0,264.0
-Male,2011,Attempt Murder,15.0,275.0
-Female,2010,Attempt Murder,15.0,300.0
-Female,2016,Attempt Murder,15.0,300.0
-Male,2011,Attempt Murder,15.0,315.0
-Male,2017,Attempt Murder,15.0,325.0
-Male,2013,Attempt Murder,15.0,325.0
-Male,2015,Attempt Murder,15.0,350.0
-Unisex,2014,Attempt Murder,15.0,370.0
-Male,2014,Attempt Murder,14.0,240.0
-Male,2013,Attempt Murder,13.0,375.0
-Female,2014,Attempt Murder,12.0,220.0
-Male,2013,Attempt Murder,12.0,275.0
-Female,2011,Attempt Murder,12.0,650.0
-Male,2014,Attempt Murder,11.0,243.5
-Female,2013,Attempt Murder,11.0,250.0
-Male,2020,Attempt Murder,11.0,275.0
-Female,2015,Attempt Murder,10.0,250.0
-Male,2016,Attempt Murder,10.0,250.0
-Female,2019,Attempt Murder,10.0,300.0
-Female,2020,Attempt Murder,10.0,350.0
-Unisex,2013,Attempt Murder,9.0,250.0
-Male,2011,Attempt Murder,8.0,275.0
-Male,2014,Attempt Murder,8.0,300.0
-Male,2010,Attempt Murder,8.0,312.0
-Female,2014,Attempt Murder,7.0,200.0
-Male,2017,Attempt Murder,7.0,200.0
-Male,2013,Attempt Murder,7.0,200.0
-Male,2013,Attempt Murder,7.0,250.0
-Male,2017,Attempt Murder,7.0,250.0
-Male,2018,Attempt Murder,7.0,270.0
-Female,2010,Attempt Murder,7.0,300.0
-Male,2013,Attempt Murder,6.0,175.0
-Female,2012,Attempt Murder,6.0,250.0
-Female,2013,Attempt Murder,6.0,272.0
-Male,2012,Attempt Murder,6.0,280.0
-Male,2011,Attempt Murder,5.0,200.0
-Female,2011,Attempt Murder,5.0,200.0
-Male,2015,Attempt Murder,5.0,205.0
-Male,2018,Attempt Murder,5.0,220.0
-Male,2010,Attempt Murder,5.0,225.0
-Male,2020,Attempt Murder,5.0,225.0
-Female,2018,Attempt Murder,5.0,225.0
-Male,2019,Attempt Murder,5.0,225.0
-Male,2015,Attempt Murder,5.0,225.0
-Male,2014,Attempt Murder,5.0,235.0
-Female,2010,Attempt Murder,5.0,250.0
-Female,2010,Attempt Murder,5.0,252.0
-Male,2016,Attempt Murder,5.0,260.0
-Male,2020,Attempt Murder,5.0,300.0
-Female,2015,Attempt Murder,4.0,225.0
-Female,2012,Attempt Murder,4.0,225.0
-Male,2014,Attempt Murder,4.0,225.0
-Male,2014,Attempt Murder,4.0,250.0
-Male,2014,Attempt Murder,4.0,250.0
-Female,2018,Attempt Murder,3.0,175.0
-Male,2020,Attempt Murder,3.0,200.0
-Female,2014,Attempt Murder,3.0,200.0
-Male,2018,Attempt Murder,3.0,200.0
-Female,2015,Attempt Murder,3.0,225.0
-Female,2011,Attempt Murder,3.0,225.0
-Female,2010,Attempt Murder,3.0,235.0
-Female,2016,Attempt Murder,3.0,250.0
-Male,2019,Attempt Murder,3.0,250.0
-Female,2014,Attempt Murder,2.0,175.0
-Male,2019,Attempt Murder,2.0,180.0
-Female,2012,Attempt Murder,2.0,200.0
-Female,2017,Attempt Murder,2.0,200.0
-Male,2016,Attempt Murder,2.0,200.0
-Male,2016,Attempt Murder,2.0,200.0
-Male,2014,Attempt Murder,2.0,215.0
-Male,2019,Attempt Murder,2.0,225.0
-Female,2011,Attempt Murder,2.0,225.0
-Female,2016,Attempt Murder,2.0,230.0
-Female,2010,Attempt Murder,2.0,250.0
-Male,2013,Attempt Murder,2.0,250.0
-Female,2013,Attempt Murder,2.0,250.0
-Male,2015,Attempt Murder,1.0,160.0
-Female,2017,Attempt Murder,1.0,175.0
-Female,2020,Attempt Murder,1.0,180.0
-Female,2011,Attempt Murder,1.0,190.0
-Female,2015,Attempt Murder,1.0,200.0
-Male,2011,Attempt Murder,1.0,200.0
-Female,2018,Attempt Murder,1.0,200.0
-Male,2010,Attempt Murder,1.0,200.0
-Male,2010,Murder,60.0,480.0
-Male,2020,Murder,60.0,500.0
-Male,2020,Murder,60.0,500.0
-Female,2018,Murder,60.0,500.0
-Female,2010,Murder,60.0,500.0
-Male,2017,Murder,60.0,500.0
-Male,2014,Murder,60.0,500.0
-Male,2013,Murder,60.0,510.0
-Female,2020,Murder,60.0,550.0
-Female,2015,Murder,60.0,589.0
-Female,2014,Murder,60.0,600.0
-Male,2011,Murder,60.0,600.0
-Male,2014,Murder,60.0,600.0
-Female,2019,Murder,60.0,600.0
-Female,2012,Murder,60.0,620.0
-Male,2015,Murder,60.0,630.0
-Male,2012,Murder,60.0,640.0
-Female,2018,Murder,60.0,650.0
-Female,2019,Murder,60.0,650.0
-Male,2015,Murder,60.0,650.0
-Female,2011,Murder,60.0,650.0
-Female,2016,Murder,60.0,650.0
-Female,2018,Murder,60.0,650.0
-Male,2013,Murder,60.0,650.0
-Female,2012,Murder,60.0,652.0
-Female,2012,Murder,60.0,656.0
-Female,2019,Murder,60.0,680.0
-Female,2014,Murder,58.0,600.0
-Male,2020,Murder,58.0,639.15
-Male,2015,Murder,58.0,680.0
-Female,2012,Murder,58.0,1050.0
-Male,2015,Murder,57.0,633.0
-Female,2012,Murder,56.0,580.0
-Male,2019,Murder,55.0,450.0
-Male,2014,Murder,55.0,450.0
-Male,2012,Murder,55.0,550.0
-Male,2017,Murder,55.0,550.0
-Male,2010,Murder,55.0,570.0
-Male,2010,Murder,55.0,580.0
-Female,2019,Murder,55.0,590.0
-Female,2018,Murder,55.0,600.0
-Male,2019,Murder,55.0,600.0
-Male,2015,Murder,55.0,600.0
-Female,2010,Murder,55.0,600.0
-Male,2011,Murder,55.0,600.0
-Female,2017,Murder,55.0,610.0
-Female,2018,Murder,55.0,620.0
-Male,2014,Murder,55.0,625.0
-Male,2019,Murder,55.0,650.0
-Female,2018,Murder,55.0,650.0
-Male,2017,Murder,55.0,650.0
-Female,2014,Murder,55.0,650.0
-Male,2014,Murder,55.0,650.0
-Female,2011,Murder,55.0,650.0
-Male,2013,Murder,55.0,650.0
-Male,2014,Murder,55.0,650.0
-Female,2016,Murder,55.0,660.0
-Female,2012,Murder,55.0,666.0
-Male,2012,Murder,55.0,680.0
-Unisex,2018,Murder,55.0,690.0
-Male,2017,Murder,54.0,475.0
-Female,2013,Murder,54.0,600.0
-Unisex,2010,Murder,54.0,620.0
-Male,2015,Murder,54.0,640.0
-Female,2016,Murder,54.0,650.0
-Male,2010,Murder,53.0,450.0
-Male,2019,Murder,52.0,450.0
-Female,2018,Murder,52.0,450.0
-Female,2018,Murder,52.0,450.0
-Male,2014,Murder,52.0,630.0
-Female,2010,Murder,50.0,550.0
-Female,2010,Murder,50.0,560.0
-Male,2014,Murder,50.0,560.0
-Male,2020,Murder,50.0,600.0
-Female,2011,Murder,50.0,600.0
-Male,2012,Murder,50.0,600.0
-Male,2017,Murder,50.0,600.0
-Male,2019,Murder,50.0,600.0
-Male,2014,Murder,50.0,600.0
-Female,2019,Murder,50.0,600.0
-Male,2016,Murder,50.0,600.0
-Male,2013,Murder,50.0,600.0
-Female,2010,Murder,50.0,610.0
-Male,2020,Murder,50.0,620.0
-Male,2010,Murder,50.0,620.0
-Male,2010,Murder,50.0,630.0
-Female,2011,Murder,50.0,636.86
-Female,2020,Murder,50.0,640.0
-Male,2012,Murder,50.0,650.0
-Male,2010,Murder,50.0,650.0
-Male,2010,Murder,50.0,660.0
-Male,2016,Murder,50.0,660.0
-Male,2019,Murder,50.0,865.0
-Male,2013,Murder,45.0,450.0
-Male,2013,Murder,45.0,550.0
-Female,2015,Murder,45.0,550.0
-Female,2014,Murder,45.0,550.0
-Female,2019,Murder,45.0,550.0
-Female,2016,Murder,45.0,600.0
-Unisex,2016,Murder,45.0,620.0
-Male,2017,Murder,45.0,650.0
-Female,2015,Murder,44.0,450.0
-Male,2020,Murder,44.0,500.0
-Female,2017,Murder,44.0,550.0
-Female,2016,Murder,43.0,480.0
-Female,2011,Murder,43.0,500.0
-Female,2013,Murder,42.0,450.0
-Male,2018,Murder,42.0,466.0
-Female,2012,Murder,42.0,500.0
-Male,2018,Murder,41.0,410.0
-Female,2018,Murder,41.0,425.0
-Female,2010,Murder,41.0,450.0
-Female,2014,Murder,41.0,450.0
-Male,2013,Murder,41.0,500.0
-Female,2020,Murder,41.0,950.0
-Female,2018,Murder,40.0,430.0
-Male,2015,Murder,40.0,450.0
-Male,2019,Murder,40.0,450.0
-Female,2010,Murder,40.0,450.0
-Female,2014,Murder,40.0,450.0
-Male,2018,Murder,40.0,450.0
-Female,2018,Murder,40.0,450.0
-Female,2012,Murder,40.0,450.0
-Female,2014,Murder,40.0,450.0
-Female,2017,Murder,40.0,450.0
-Male,2011,Murder,40.0,450.0
-Male,2018,Murder,40.0,450.0
-Female,2010,Murder,40.0,455.0
-Female,2020,Murder,40.0,500.0
-Male,2017,Murder,40.0,500.0
-Female,2011,Murder,40.0,500.0
-Male,2017,Murder,40.0,500.0
-Unknown,2019,Murder,40.0,500.0
-Female,2010,Murder,40.0,500.0
-Male,2012,Murder,40.0,500.0
-Female,2013,Murder,40.0,530.0
-Female,2018,Murder,40.0,549.9
-Unisex,2012,Murder,40.0,550.0
-Female,2014,Murder,40.0,550.0
-Female,2016,Murder,40.0,550.0
-Male,2016,Murder,40.0,550.0
-Female,2017,Murder,40.0,550.0
-Female,2013,Murder,40.0,570.0
-Female,2018,Murder,40.0,570.0
-Male,2015,Murder,40.0,575.0
-Male,2010,Murder,40.0,578.5
-Female,2020,Murder,40.0,583.66
-Female,2017,Murder,40.0,590.0
-Female,2017,Murder,40.0,600.0
-Male,2018,Murder,40.0,610.0
-Male,2011,Murder,40.0,650.0
-Female,2018,Murder,40.0,655.0
-Female,2020,Murder,35.0,400.0
-Male,2012,Murder,35.0,400.0
-Female,2011,Murder,35.0,400.0
-Male,2010,Murder,35.0,440.0
-Female,2013,Murder,35.0,450.0
-Male,2016,Murder,35.0,450.0
-Female,2019,Murder,35.0,475.0
-Unisex,2013,Murder,35.0,485.0
-Female,2019,Murder,35.0,494.0
-Male,2010,Murder,35.0,500.0
-Male,2020,Murder,35.0,500.0
-Male,2011,Murder,35.0,550.0
-Female,2020,Murder,35.0,560.0
-Male,2010,Murder,35.0,595.0
-Female,2019,Murder,34.0,595.0
-Male,2012,Murder,33.0,400.0
-Female,2015,Murder,30.0,395.0
-Male,2016,Murder,30.0,400.0
-Male,2010,Murder,30.0,400.0
-Male,2015,Murder,30.0,425.0
-Female,2019,Murder,30.0,425.0
-Male,2020,Murder,30.0,445.0
-Female,2016,Murder,30.0,450.0
-Female,2020,Murder,30.0,450.0
-Female,2020,Murder,30.0,450.0
-Male,2010,Murder,30.0,455.0
-Male,2020,Murder,30.0,475.0
-Female,2012,Murder,30.0,475.0
-Male,2015,Murder,30.0,475.0
-Male,2015,Murder,30.0,500.0
-Female,2018,Murder,30.0,500.0
-Female,2013,Murder,30.0,500.0
-Male,2019,Murder,30.0,500.0
-Male,2020,Murder,30.0,500.0
-Female,2014,Murder,30.0,500.0
-Female,2018,Murder,30.0,506.66
-Male,2011,Murder,30.0,525.0
-Female,2013,Murder,30.0,530.0
-Female,2017,Murder,30.0,532.34
-Male,2012,Murder,30.0,550.0
-Female,2010,Murder,30.0,550.0
-Male,2019,Murder,30.0,550.0
-Female,2016,Murder,30.0,550.0
-Female,2015,Murder,30.0,550.0
-Female,2010,Murder,30.0,580.0
-Female,2017,Murder,30.0,600.0
-Female,2016,Murder,30.0,610.0
-Male,2016,Murder,30.0,630.0
-Female,2019,Murder,29.0,450.0
-Male,2010,Murder,29.0,550.0
-Female,2018,Murder,28.0,450.0
-Female,2010,Murder,28.0,450.0
-Male,2016,Murder,28.0,475.0
-Female,2013,Murder,28.0,500.0
-Male,2010,Murder,28.0,550.0
-Male,2012,Murder,28.0,550.0
-Female,2012,Murder,28.0,552.88
-Male,2012,Murder,28.0,600.0
-Female,2019,Murder,27.0,450.0
-Unisex,2019,Murder,27.0,450.0
-Male,2019,Murder,27.0,450.0
-Female,2014,Murder,27.0,450.0
-Male,2014,Murder,27.0,450.0
-Female,2017,Murder,27.0,550.0
-Male,2018,Murder,27.0,550.0
-Male,2016,Murder,27.0,600.0
-Female,2010,Murder,26.0,407.0
-Female,2011,Murder,26.0,450.0
-Female,2017,Murder,26.0,450.0
-Female,2010,Murder,26.0,450.0
-Female,2014,Murder,26.0,550.0
-Male,2010,Murder,26.0,570.0
-Male,2019,Murder,26.0,600.0
-Male,2010,Murder,25.0,375.0
-Male,2010,Murder,25.0,375.0
-Male,2015,Murder,25.0,400.0
-Female,2017,Murder,25.0,400.0
-Male,2017,Murder,25.0,400.0
-Female,2013,Murder,25.0,410.0
-Male,2017,Murder,25.0,420.0
-Male,2019,Murder,25.0,425.0
-Female,2017,Murder,25.0,425.0
-Female,2013,Murder,25.0,426.0
-Male,2020,Murder,25.0,430.0
-Female,2019,Murder,25.0,440.0
-Male,2012,Murder,25.0,440.0
-Male,2016,Murder,25.0,450.0
-Male,2013,Murder,25.0,450.0
-Female,2020,Murder,25.0,475.0
-Male,2013,Murder,25.0,492.07
-Female,2020,Murder,25.0,500.0
-Female,2013,Murder,25.0,512.5
-Male,2013,Murder,25.0,515.0
-Male,2019,Murder,25.0,525.0
-Male,2014,Murder,25.0,550.0
-Unisex,2019,Murder,25.0,550.0
-Female,2010,Murder,25.0,575.0
-Male,2019,Murder,25.0,575.0
-Male,2020,Murder,25.0,576.0
-Male,2020,Murder,24.0,350.0
-Male,2010,Murder,24.0,400.0
-Male,2014,Murder,24.0,400.0
-Male,2010,Murder,24.0,400.0
-Male,2014,Murder,24.0,425.0
-Male,2010,Murder,24.0,450.0
-Male,2013,Murder,24.0,450.0
-Female,2019,Murder,24.0,500.0
-Female,2019,Murder,23.0,350.0
-Male,2019,Murder,23.0,387.3
-Male,2010,Murder,23.0,400.0
-Female,2018,Murder,23.0,400.0
-Unknown,2012,Murder,23.0,400.0
-Female,2011,Murder,23.0,402.81
-Female,2019,Murder,23.0,450.0
-Female,2020,Murder,23.0,500.0
-Female,2013,Murder,22.0,350.0
-Female,2015,Murder,22.0,385.0
-Male,2016,Murder,22.0,390.0
-Male,2017,Murder,22.0,400.0
-Male,2014,Murder,22.0,400.0
-Female,2014,Murder,22.0,400.0
-Male,2020,Murder,22.0,400.0
-Male,2014,Murder,22.0,400.0
-Female,2013,Murder,22.0,400.0
-Female,2017,Murder,22.0,450.0
-Female,2010,Murder,22.0,500.0
-Female,2012,Murder,22.0,500.0
-Female,2020,Murder,21.0,340.0
-Unisex,2018,Murder,21.0,350.0
-Female,2012,Murder,21.0,375.0
-Male,2013,Murder,21.0,400.0
-Male,2012,Murder,21.0,400.0
-Female,2018,Murder,21.0,400.0
-Unisex,2017,Murder,21.0,400.0
-Male,2010,Murder,21.0,400.0
-Male,2014,Murder,21.0,422.0
-Female,2020,Murder,21.0,450.0
-Male,2014,Murder,21.0,500.0
-Unisex,2013,Murder,20.5,350.0
-Female,2016,Murder,20.0,310.0
-Male,2018,Murder,20.0,340.0
-Female,2010,Murder,20.0,350.0
-Female,2012,Murder,20.0,350.0
-Male,2020,Murder,20.0,350.0
-Female,2018,Murder,20.0,350.0
-Male,2019,Murder,20.0,350.0
-Male,2019,Murder,20.0,350.0
-Female,2018,Murder,20.0,350.0
-Male,2017,Murder,20.0,356.0
-Male,2015,Murder,20.0,368.0
-Female,2013,Murder,20.0,375.0
-Male,2016,Murder,20.0,375.0
-Male,2016,Murder,20.0,380.0
-Female,2012,Murder,20.0,385.0
-Female,2011,Murder,20.0,400.0
-Female,2013,Murder,20.0,400.0
-Male,2019,Murder,20.0,400.0
-Male,2016,Murder,20.0,400.0
-Female,2010,Murder,20.0,400.0
-Male,2014,Murder,20.0,400.0
-Female,2012,Murder,20.0,400.0
-Male,2019,Murder,20.0,407.35
-Male,2020,Murder,20.0,420.0
-Male,2018,Murder,20.0,420.0
-Female,2018,Murder,20.0,420.0
-Male,2010,Murder,20.0,425.0
-Male,2014,Murder,20.0,430.0
-Male,2015,Murder,20.0,440.0
-Female,2011,Murder,20.0,440.0
-Female,2016,Murder,20.0,444.0
-Female,2018,Murder,20.0,445.0
-Male,2013,Murder,20.0,450.0
-Male,2011,Murder,20.0,450.0
-Female,2011,Murder,20.0,450.0
-Unisex,2019,Murder,20.0,450.0
-Female,2015,Murder,20.0,452.0
-Male,2015,Murder,20.0,455.0
-Male,2016,Murder,20.0,460.0
-Female,2010,Murder,20.0,460.0
-Male,2019,Murder,20.0,468.0
-Male,2011,Murder,20.0,471.5
-Male,2014,Murder,20.0,475.0
-Female,2016,Murder,20.0,475.0
-Female,2015,Murder,20.0,500.0
-Female,2010,Murder,20.0,500.0
-Male,2017,Murder,20.0,510.0
-Unisex,2013,Murder,20.0,515.0
-Male,2011,Murder,20.0,525.0
-Female,2011,Murder,19.0,325.0
-Male,2016,Murder,19.0,325.0
-Female,2018,Murder,19.0,350.0
-Male,2010,Murder,19.0,350.0
-Female,2016,Murder,19.0,350.0
-Female,2018,Murder,19.0,350.0
-Female,2012,Murder,19.0,350.0
-Female,2010,Murder,19.0,365.0
-Male,2014,Murder,19.0,400.0
-Female,2012,Murder,19.0,400.0
-Male,2011,Murder,19.0,450.0
-Female,2016,Murder,19.0,450.0
-Female,2014,Murder,19.0,500.0
-Male,2019,Murder,18.0,320.0
-Female,2011,Murder,18.0,325.0
-Female,2017,Murder,18.0,350.0
-Female,2011,Murder,18.0,350.0
-Male,2017,Murder,18.0,350.0
-Male,2011,Murder,18.0,350.0
-Male,2018,Murder,18.0,400.0
-Female,2019,Murder,18.0,425.0
-Female,2015,Murder,18.0,450.0
-Male,2010,Murder,18.0,450.0
-Male,2012,Murder,18.0,450.0
-Unknown,2015,Murder,18.0,500.0
-Male,2014,Murder,18.0,500.0
-Female,2019,Murder,18.0,530.0
-Male,2012,Murder,17.0,325.0
-Female,2020,Murder,17.0,350.0
-Female,2010,Murder,17.0,350.0
-Female,2019,Murder,17.0,350.0
-Male,2010,Murder,17.0,350.0
-Male,2019,Murder,17.0,400.0
-Male,2017,Murder,17.0,400.0
-Female,2014,Murder,17.0,420.0
-Male,2014,Murder,17.0,425.0
-Male,2016,Murder,17.0,450.0
-Male,2012,Murder,17.0,450.0
-Male,2017,Murder,17.0,450.0
-Female,2019,Murder,17.0,500.0
-Female,2017,Murder,17.0,500.0
-Female,2019,Murder,17.0,500.0
-Female,2016,Murder,16.0,300.0
-Male,2016,Murder,16.0,320.0
-Female,2012,Murder,16.0,325.0
-Female,2016,Murder,16.0,350.0
-Male,2017,Murder,16.0,350.0
-Female,2011,Murder,16.0,350.0
-Male,2020,Murder,16.0,350.0
-Male,2011,Murder,16.0,400.0
-Female,2020,Murder,16.0,400.0
-Female,2010,Murder,16.0,400.0
-Female,2014,Murder,16.0,425.0
-Male,2011,Murder,16.0,450.0
-Male,2010,Murder,16.0,500.0
-Female,2013,Murder,15.0,300.0
-Female,2016,Murder,15.0,300.0
-Male,2016,Murder,15.0,325.0
-Female,2011,Murder,15.0,325.0
-Unisex,2017,Murder,15.0,325.0
-Unisex,2014,Murder,15.0,350.0
-Female,2015,Murder,15.0,350.0
-Male,2020,Murder,15.0,350.0
-Female,2016,Murder,15.0,350.0
-Male,2013,Murder,15.0,350.0
-Female,2017,Murder,15.0,400.0
-Male,2019,Murder,15.0,425.0
-Male,2019,Murder,14.0,300.0
-Female,2011,Murder,14.0,300.0
-Male,2018,Murder,14.0,300.0
-Female,2010,Murder,14.0,300.0
-Female,2012,Murder,14.0,300.0
-Male,2020,Murder,14.0,325.0
-Male,2020,Murder,14.0,325.0
-Female,2017,Murder,14.0,350.0
-Female,2012,Murder,14.0,350.0
-Male,2014,Murder,14.0,350.0
-Male,2018,Murder,14.0,400.0
-Female,2017,Murder,14.0,425.0
-Female,2019,Murder,14.0,500.0
-Female,2015,Murder,13.0,350.0
-Female,2016,Murder,13.0,400.0
-Male,2014,Murder,13.0,400.0
-Male,2020,Murder,12.0,300.0
-Female,2016,Murder,12.0,300.0
-Male,2013,Murder,12.0,300.0
-Male,2017,Murder,12.0,339.25
-Female,2016,Murder,12.0,350.0
-Male,2016,Murder,12.0,350.0
-Female,2011,Murder,12.0,350.0
-Female,2020,Murder,12.0,350.0
-Female,2019,Murder,12.0,375.0
-Female,2018,Murder,12.0,400.0
-Male,2015,Murder,12.0,400.0
-Male,2010,Murder,12.0,400.0
-Female,2011,Murder,12.0,450.0
-Female,2015,Murder,11.0,275.0
-Female,2013,Murder,11.0,300.0
-Female,2012,Murder,11.0,343.0
-Female,2020,Murder,11.0,400.0
-Male,2020,Murder,10.0,310.0
-Male,2014,Murder,10.0,337.5
-Male,2013,Murder,10.0,340.0
-Female,2015,Murder,10.0,340.0
-Female,2018,Murder,10.0,340.0
-Female,2019,Murder,10.0,340.0
-Male,2016,Murder,10.0,343.1
-Female,2010,Murder,10.0,350.0
-Male,2020,Murder,10.0,350.0
-Male,2013,Murder,10.0,375.0
-Female,2012,Murder,10.0,383.4
-Male,2015,Murder,10.0,400.0
-Female,2013,Murder,10.0,750.0
-Female,2011,Murder,9.0,300.0
-Female,2017,Murder,9.0,325.0
-Female,2014,Murder,8.0,250.0
-Female,2020,Murder,8.0,300.0
-Female,2010,Murder,8.0,300.0
-Male,2017,Murder,8.0,300.0
-Female,2018,Murder,8.0,325.0
-Female,2020,Murder,8.0,400.0
-Female,2011,Murder,7.0,250.0
-Male,2011,Murder,7.0,275.0
-Female,2010,Murder,7.0,280.0
-Female,2019,Murder,7.0,300.0
-Female,2016,Murder,7.0,300.0
-Female,2018,Murder,7.0,320.0
-Male,2017,Murder,7.0,340.0
-Female,2011,Murder,6.0,206.0
-Female,2015,Murder,6.0,250.0
-Male,2013,Murder,6.0,250.0
-Male,2010,Murder,6.0,290.0
-Male,2019,Murder,6.0,300.0
-Female,2010,Murder,6.0,300.0
-Male,2016,Murder,6.0,400.0
-Female,2019,Murder,5.0,225.0
-Female,2011,Murder,5.0,250.0
-Female,2020,Murder,5.0,250.0
-Male,2018,Murder,5.0,250.0
-Female,2011,Murder,5.0,250.0
-Female,2020,Murder,5.0,250.0
-Male,2017,Murder,5.0,265.0
-Female,2010,Murder,5.0,300.0
-Male,2020,Murder,5.0,300.0
-Male,2017,Murder,5.0,300.0
-Female,2010,Murder,5.0,300.0
-Male,2011,Murder,5.0,300.0
-Male,2010,Murder,5.0,300.0
-Unisex,2014,Murder,5.0,325.0
-Male,2020,Murder,5.0,325.0
-Female,2014,Murder,5.0,330.0
-Male,2015,Murder,5.0,336.0
-Male,2019,Murder,4.0,150.0
-Female,2013,Murder,4.0,250.0
-Female,2017,Murder,4.0,300.0
-Female,2013,Murder,4.0,400.0
-Male,2011,Murder,3.0,160.0
-Female,2018,Murder,3.0,260.0
-Male,2014,Murder,3.0,275.0
-Male,2015,Murder,3.0,300.0
-Female,2010,Murder,2.0,120.0
-Male,2010,Murder,2.0,150.0
-Female,2010,Murder,2.0,153.0
-Male,2017,Murder,2.0,160.0
-Male,2018,Murder,2.0,160.0
-Unisex,2010,Murder,2.0,160.0
-Male,2017,Murder,2.0,180.0
-Unisex,2012,Murder,2.0,180.0
-Female,2016,Murder,2.0,180.0
-Male,2016,Murder,2.0,190.0
-Male,2012,Murder,2.0,200.0
-Male,2017,Murder,2.0,200.0
-Female,2012,Murder,2.0,200.0
-Male,2015,Murder,2.0,200.0
-Male,2016,Murder,2.0,220.0
-Male,2013,Murder,2.0,230.0
-Male,2012,Murder,2.0,237.3
-Female,2015,Murder,2.0,250.0
-Female,2019,Murder,2.0,250.0
-Male,2020,Murder,2.0,306.3
-Female,2010,Murder,2.0,325.0
-Female,2013,Murder,2.0,325.0
-Male,2011,Murder,1.0,120.0
-Male,2012,Murder,1.0,150.0
-Female,2016,Murder,1.0,150.0
-Male,2016,Murder,1.0,187.17
-Female,2016,Murder,1.0,190.0
-Male,2011,Murder,1.0,200.0
-Male,2011,Murder,1.0,200.0
-Male,2016,Narcotics,60.0,420.0
-Female,2018,Narcotics,60.0,440.0
-Female,2019,Narcotics,60.0,440.0
-Male,2018,Narcotics,60.0,440.47
-Female,2013,Narcotics,60.0,450.0
-Female,2015,Narcotics,60.0,470.0
-Unisex,2013,Narcotics,60.0,500.0
-Male,2016,Narcotics,60.0,509.55
-Male,2016,Narcotics,60.0,510.0
-Female,2016,Narcotics,55.0,505.0
-Female,2014,Narcotics,55.0,520.0
-Female,2019,Narcotics,55.0,525.0
-Male,2011,Narcotics,51.0,380.0
-Female,2013,Narcotics,51.0,385.0
-Male,2018,Narcotics,51.0,390.0
-Male,2012,Narcotics,50.0,400.0
-Male,2014,Narcotics,50.0,410.0
-Male,2018,Narcotics,50.0,410.0
-Female,2013,Narcotics,50.0,420.0
-Male,2016,Narcotics,50.0,430.0
-Unknown,2013,Narcotics,50.0,610.0
-Female,2017,Narcotics,49.0,430.0
-Female,2013,Narcotics,48.0,415.0
-Male,2013,Narcotics,47.0,405.0
-Male,2018,Narcotics,46.0,410.0
-Male,2013,Narcotics,45.0,390.0
-Male,2020,Narcotics,45.0,390.0
-Male,2016,Narcotics,45.0,400.0
-Female,2015,Narcotics,45.0,410.0
-Female,2011,Narcotics,45.0,470.0
-Unisex,2010,Narcotics,44.0,390.0
-Female,2015,Narcotics,44.0,500.0
-Male,2011,Narcotics,43.0,380.0
-Male,2016,Narcotics,43.0,500.0
-Unisex,2017,Narcotics,42.0,395.0
-Female,2019,Narcotics,42.0,400.0
-Female,2015,Narcotics,42.0,410.0
-Female,2020,Narcotics,42.0,420.0
-Male,2016,Narcotics,42.0,500.0
-Female,2011,Narcotics,41.0,350.0
-Male,2010,Narcotics,41.0,360.0
-Male,2010,Narcotics,41.0,370.0
-Female,2013,Narcotics,41.0,390.0
-Male,2011,Narcotics,41.0,450.0
-Male,2016,Narcotics,40.0,355.0
-Female,2017,Narcotics,39.0,421.0
-Male,2011,Narcotics,39.0,450.0
-Male,2012,Narcotics,38.0,432.0
-Female,2015,Narcotics,38.0,450.0
-Female,2012,Narcotics,37.0,430.0
-Male,2015,Narcotics,37.0,440.0
-Male,2019,Narcotics,36.0,425.0
-Male,2015,Narcotics,36.0,425.0
-Male,2016,Narcotics,36.0,425.0
-Male,2019,Narcotics,36.0,430.0
-Male,2012,Narcotics,36.0,440.0
-Female,2015,Narcotics,36.0,450.0
-Female,2018,Narcotics,35.0,420.0
-Female,2016,Narcotics,35.0,420.0
-Male,2019,Narcotics,35.0,420.0
-Female,2019,Narcotics,35.0,431.0
-Unisex,2013,Narcotics,35.0,440.0
-Female,2011,Narcotics,34.0,375.0
-Male,2016,Narcotics,34.0,390.0
-Male,2015,Narcotics,33.0,380.0
-Male,2016,Narcotics,33.0,381.0
-Male,2015,Narcotics,32.0,384.0
-Male,2014,Narcotics,32.0,480.0
-Male,2017,Narcotics,32.0,800.0
-Male,2010,Narcotics,31.0,379.0
-Female,2010,Narcotics,30.0,375.0
-Male,2019,Narcotics,30.0,380.0
-Male,2013,Narcotics,30.0,380.0
-Unisex,2019,Narcotics,30.0,400.0
-Male,2019,Narcotics,30.0,410.0
-Male,2015,Narcotics,30.0,410.0
-Unisex,2012,Narcotics,30.0,480.84
-Male,2014,Narcotics,29.0,375.0
-Female,2014,Narcotics,28.0,359.0
-Female,2012,Narcotics,28.0,365.0
-Male,2013,Narcotics,27.0,355.0
-Female,2013,Narcotics,26.0,350.0
-Male,2011,Narcotics,25.0,300.0
-Female,2015,Narcotics,25.0,350.0
-Male,2016,Narcotics,25.0,386.0
-Female,2019,Narcotics,25.0,425.0
-Male,2017,Narcotics,25.0,445.0
-Male,2015,Narcotics,25.0,450.0
-Female,2014,Narcotics,24.0,330.0
-Male,2011,Narcotics,24.0,350.0
-Male,2014,Narcotics,24.0,350.0
-Female,2018,Narcotics,23.0,325.0
-Male,2014,Narcotics,23.0,340.0
-Male,2012,Narcotics,23.0,350.0
-Male,2014,Narcotics,22.0,320.0
-Female,2012,Narcotics,22.0,320.0
-Female,2010,Narcotics,21.0,310.0
-Female,2011,Narcotics,21.0,310.0
-Male,2016,Narcotics,20.0,300.0
-Female,2010,Narcotics,20.0,300.0
-Female,2013,Narcotics,20.0,300.0
-Male,2020,Narcotics,20.0,300.0
-Male,2012,Narcotics,20.0,300.0
-Male,2017,Narcotics,20.0,300.0
-Male,2015,Narcotics,20.0,300.0
-Male,2019,Narcotics,20.0,300.0
-Male,2013,Narcotics,20.0,300.0
-Male,2013,Narcotics,20.0,300.0
-Male,2010,Narcotics,20.0,310.0
-Unisex,2012,Narcotics,20.0,315.0
-Male,2016,Narcotics,20.0,325.0
-Male,2020,Narcotics,20.0,370.0
-Male,2020,Narcotics,20.0,390.0
-Male,2011,Narcotics,20.0,410.0
-Female,2011,Narcotics,20.0,420.0
-Female,2018,Narcotics,20.0,435.0
-Male,2018,Narcotics,19.0,340.0
-Female,2010,Narcotics,19.0,366.0
-Female,2019,Narcotics,18.0,323.0
-Male,2016,Narcotics,18.0,365.0
-Male,2018,Narcotics,17.0,322.0
-Male,2012,Narcotics,17.0,350.0
-Male,2012,Narcotics,17.0,360.0
-Male,2020,Narcotics,16.0,330.0
-Female,2017,Narcotics,16.0,350.0
-Male,2019,Narcotics,15.0,244.0
-Female,2020,Narcotics,15.0,250.0
-Female,2010,Narcotics,15.0,250.0
-Female,2020,Narcotics,15.0,250.0
-Female,2019,Narcotics,15.0,250.0
-Female,2020,Narcotics,15.0,250.0
-Male,2018,Narcotics,15.0,250.0
-Female,2011,Narcotics,15.0,250.0
-Male,2016,Narcotics,15.0,250.0
-Female,2013,Narcotics,15.0,250.0
-Female,2016,Narcotics,15.0,250.0
-Male,2014,Narcotics,15.0,250.0
-Male,2015,Narcotics,15.0,250.0
-Female,2019,Narcotics,15.0,250.0
-Male,2016,Narcotics,15.0,270.0
-Male,2019,Narcotics,15.0,275.0
-Female,2020,Narcotics,15.0,275.0
-Female,2019,Narcotics,15.0,275.0
-Male,2011,Narcotics,15.0,275.0
-Unknown,2016,Narcotics,15.0,277.35
-Male,2012,Narcotics,15.0,289.0
-Male,2018,Narcotics,15.0,300.0
-Female,2016,Narcotics,15.0,300.0
-Male,2010,Narcotics,15.0,300.0
-Male,2012,Narcotics,15.0,300.0
-Male,2018,Narcotics,15.0,300.0
-Unisex,2015,Narcotics,15.0,300.0
-Female,2016,Narcotics,15.0,320.0
-Male,2018,Narcotics,15.0,325.0
-Female,2011,Narcotics,15.0,325.0
-Female,2017,Narcotics,15.0,355.0
-Female,2011,Narcotics,15.0,380.0
-Male,2012,Narcotics,15.0,380.0
-Male,2014,Narcotics,15.0,390.0
-Male,2014,Narcotics,15.0,560.0
-Male,2014,Narcotics,14.0,310.0
-Female,2017,Narcotics,14.0,325.0
-Male,2018,Narcotics,13.0,320.0
-Female,2013,Narcotics,12.0,225.0
-Female,2012,Narcotics,12.0,250.0
-Male,2019,Narcotics,12.0,250.0
-Male,2014,Narcotics,12.0,300.0
-Male,2019,Narcotics,12.0,300.0
-Female,2013,Narcotics,12.0,330.0
-Male,2015,Narcotics,11.0,265.0
-Female,2017,Narcotics,10.0,250.0
-Female,2010,Narcotics,10.0,250.0
-Male,2015,Narcotics,10.0,270.0
-Female,2012,Narcotics,10.0,275.0
-Male,2015,Narcotics,10.0,280.0
-Female,2014,Narcotics,10.0,320.0
-Male,2016,Narcotics,10.0,334.62
-Male,2013,Narcotics,10.0,350.0
-Male,2017,Narcotics,8.0,250.0
-Male,2017,Narcotics,7.0,220.0
-Female,2017,Narcotics,6.0,250.0
-Male,2015,Narcotics,5.0,150.0
-Female,2017,Narcotics,5.0,175.0
-Male,2011,Narcotics,5.0,250.0
-Male,2013,Narcotics,4.0,180.0
-Female,2020,Narcotics,4.0,200.0
-Female,2015,Narcotics,4.0,250.0
-Female,2018,Narcotics,4.0,250.0
-Female,2011,Narcotics,3.0,200.0
-Male,2020,Narcotics,3.0,200.0
-Male,2015,Narcotics,3.0,225.0
-Female,2014,Narcotics,3.0,235.0
-Male,2018,Narcotics,2.0,150.0
-Female,2016,Narcotics,2.0,175.0
-Female,2018,Narcotics,2.0,175.0
-Female,2010,Narcotics,2.0,180.0
-Male,2010,Narcotics,2.0,200.0
-Female,2017,Narcotics,2.0,200.0
-Female,2010,Narcotics,2.0,210.0
-Female,2012,Narcotics,2.0,210.0
-Female,2018,Narcotics,2.0,210.0
-Female,2014,Narcotics,2.0,220.0
-Male,2012,Narcotics,2.0,225.0
-Male,2010,Narcotics,1.0,130.0
-Male,2015,Narcotics,1.0,135.0
-Female,2017,Narcotics,1.0,150.0
-Female,2011,Narcotics,1.0,175.0
-Unisex,2012,Narcotics,1.0,220.0
-Unisex,2018,Narcotics,1.0,225.0
-Unknown,2011,Narcotics,1.0,250.0
-Female,2020,Other,60.0,403.0
-Unisex,2012,Other,60.0,417.0
-Female,2014,Other,60.0,425.0
-Male,2015,Other,60.0,428.0
-Male,2011,Other,60.0,450.0
-Male,2012,Other,60.0,465.0
-Unisex,2015,Other,60.0,470.0
-Female,2019,Other,60.0,477.0
-Female,2012,Other,60.0,487.0
-Unknown,2015,Other,60.0,502.0
-Female,2016,Other,58.0,378.0
-Male,2020,Other,58.0,379.0
-Male,2010,Other,58.0,392.0
-Male,2017,Other,58.0,403.0
-Female,2014,Other,58.0,413.0
-Male,2020,Other,58.0,428.0
-Female,2011,Other,58.0,444.0
-Male,2017,Other,58.0,464.0
-Male,2012,Other,58.0,469.0
-Male,2018,Other,58.0,516.0
-Unisex,2015,Other,57.0,384.0
-Male,2013,Other,57.0,397.0
-Female,2020,Other,57.0,413.0
-Female,2016,Other,57.0,419.0
-Female,2012,Other,56.0,391.0
-Male,2010,Other,56.0,412.0
-Male,2020,Other,56.0,419.0
-Male,2020,Other,56.0,432.0
-Female,2012,Other,56.0,452.0
-Female,2015,Other,55.0,406.0
-Male,2019,Other,54.0,420.0
-Unisex,2012,Other,54.0,485.0
-Male,2011,Other,53.0,384.0
-Male,2016,Other,53.0,386.0
-Male,2013,Other,53.0,396.0
-Male,2018,Other,53.0,425.0
-Female,2011,Other,53.0,428.0
-Male,2016,Other,53.0,431.0
-Male,2011,Other,53.0,438.0
-Female,2013,Other,53.0,445.0
-Male,2017,Other,52.0,418.0
-Male,2018,Other,52.0,419.0
-Male,2012,Other,52.0,439.0
-Female,2019,Other,52.0,470.0
-Male,2018,Other,51.0,389.0
-Male,2018,Other,51.0,427.0
-Male,2015,Other,51.0,428.0
-Male,2015,Other,51.0,441.0
-Male,2012,Other,51.0,452.0
-Male,2018,Other,51.0,465.0
-Male,2015,Other,51.0,470.0
-Male,2013,Other,51.0,511.0
-Female,2019,Other,50.0,388.0
-Female,2020,Other,50.0,450.0
-Male,2010,Other,50.0,467.0
-Female,2017,Other,49.0,433.0
-Female,2012,Other,49.0,435.0
-Male,2011,Other,49.0,468.0
-Female,2018,Other,48.0,412.0
-Unknown,2013,Other,48.0,422.0
-Male,2011,Other,48.0,428.0
-Male,2015,Other,47.0,351.0
-Female,2018,Other,47.0,364.0
-Unisex,2019,Other,47.0,439.0
-Male,2019,Other,47.0,441.0
-Female,2019,Other,46.0,325.0
-Female,2016,Other,46.0,348.0
-Male,2018,Other,46.0,455.0
-Male,2019,Other,46.0,470.0
-Female,2015,Other,45.0,367.0
-Female,2015,Other,45.0,384.0
-Female,2018,Other,45.0,462.0
-Male,2019,Other,44.0,343.0
-Male,2014,Other,44.0,457.0
-Female,2010,Other,44.0,460.0
-Male,2010,Other,44.0,486.0
-Unisex,2012,Other,43.0,350.0
-Female,2016,Other,43.0,433.0
-Male,2015,Other,43.0,465.0
-Male,2012,Other,43.0,480.0
-Female,2013,Other,42.0,328.0
-Male,2019,Other,42.0,330.0
-Female,2010,Other,42.0,358.0
-Male,2013,Other,42.0,470.0
-Unisex,2010,Other,42.0,471.0
-Unisex,2014,Other,42.0,471.0
-Unisex,2011,Other,41.0,462.0
-Male,2012,Other,41.0,468.0
-Male,2015,Other,40.0,352.0
-Male,2018,Other,40.0,367.0
-Male,2013,Other,40.0,370.0
-Male,2011,Other,40.0,370.0
-Female,2019,Other,40.0,384.0
-Male,2019,Other,40.0,397.0
-Unisex,2010,Other,40.0,416.0
-Male,2014,Other,40.0,446.0
-Female,2017,Other,40.0,457.0
-Female,2016,Other,39.0,339.0
-Male,2013,Other,39.0,385.0
-Male,2013,Other,38.0,318.0
-Female,2013,Other,38.0,330.0
-Male,2012,Other,37.0,333.0
-Female,2012,Other,37.0,362.0
-Female,2018,Other,36.0,315.0
-Female,2020,Other,36.0,343.0
-Female,2011,Other,36.0,399.0
-Female,2010,Other,35.0,326.0
-Male,2017,Other,35.0,327.0
-Male,2015,Other,35.0,328.0
-Female,2015,Other,35.0,340.0
-Female,2010,Other,35.0,344.0
-Female,2020,Other,35.0,351.0
-Male,2019,Other,35.0,359.0
-Female,2011,Other,35.0,364.0
-Female,2017,Other,35.0,379.0
-Male,2020,Other,35.0,409.0
-Male,2013,Other,35.0,411.0
-Male,2018,Other,35.0,430.0
-Male,2020,Other,35.0,450.0
-Male,2020,Other,34.0,302.0
-Male,2014,Other,34.0,310.0
-Female,2015,Other,34.0,348.0
-Female,2020,Other,34.0,373.0
-Unisex,2012,Other,34.0,455.0
-Female,2010,Other,33.0,345.0
-Male,2012,Other,33.0,352.0
-Female,2011,Other,33.0,380.0
-Unknown,2012,Other,33.0,450.0
-Female,2017,Other,32.0,410.0
-Female,2019,Other,31.0,400.0
-Female,2013,Other,30.0,325.0
-Male,2014,Other,30.0,340.0
-Male,2012,Other,30.0,345.0
-Male,2019,Other,30.0,355.0
-Female,2017,Other,30.0,355.0
-Male,2010,Other,30.0,355.0
-Male,2011,Other,30.0,375.0
-Male,2014,Other,30.0,400.0
-Male,2011,Other,30.0,400.0
-Male,2014,Other,30.0,400.0
-Male,2018,Other,30.0,400.0
-Male,2010,Other,30.0,400.0
-Female,2010,Other,30.0,400.0
-Female,2011,Other,29.0,320.0
-Male,2011,Other,29.0,450.0
-Female,2019,Other,28.0,335.0
-Female,2014,Other,28.0,345.0
-Male,2018,Other,28.0,350.0
-Female,2016,Other,28.0,359.0
-Female,2020,Other,28.0,425.0
-Female,2018,Other,28.0,450.0
-Male,2011,Other,27.0,350.0
-Female,2015,Other,27.0,350.0
-Male,2015,Other,27.0,355.0
-Male,2013,Other,27.0,405.0
-Unisex,2013,Other,26.0,336.0
-Male,2016,Other,26.0,350.0
-Male,2010,Other,26.0,400.0
-Male,2010,Other,25.0,345.0
-Female,2010,Other,25.0,350.0
-Female,2013,Other,25.0,360.0
-Male,2013,Other,25.0,370.0
-Male,2010,Other,25.0,375.0
-Female,2016,Other,25.0,375.0
-Male,2018,Other,25.0,380.0
-Male,2010,Other,25.0,380.0
-Male,2016,Other,25.0,380.0
-Female,2019,Other,25.0,385.0
-Male,2014,Other,25.0,410.0
-Female,2014,Other,25.0,416.0
-Male,2015,Other,24.0,325.0
-Male,2013,Other,24.0,350.0
-Male,2018,Other,24.0,350.0
-Female,2019,Other,24.0,375.0
-Female,2010,Other,24.0,375.0
-Female,2010,Other,24.0,400.0
-Male,2016,Other,23.0,330.0
-Female,2015,Other,23.0,350.0
-Female,2010,Other,23.0,365.0
-Male,2019,Other,23.0,367.5
-Male,2014,Other,23.0,386.0
-Male,2016,Other,23.0,425.0
-Unknown,2010,Other,22.0,318.0
-Male,2014,Other,22.0,353.0
-Male,2010,Other,22.0,366.0
-Female,2012,Other,22.0,385.0
-Female,2019,Other,21.0,300.0
-Female,2019,Other,21.0,325.0
-Male,2011,Other,21.0,360.0
-Female,2019,Other,21.0,380.0
-Male,2012,Other,20.0,350.0
-Male,2011,Other,19.0,260.0
-Male,2012,Other,19.0,300.0
-Male,2014,Other,19.0,300.0
-Female,2012,Other,19.0,320.0
-Female,2019,Other,19.0,321.0
-Unisex,2019,Other,19.0,335.0
-Male,2016,Other,19.0,337.0
-Male,2014,Other,19.0,351.0
-Unisex,2020,Other,19.0,375.0
-Female,2014,Other,19.0,375.0
-Male,2019,Other,18.0,250.0
-Male,2019,Other,18.0,250.0
-Unisex,2010,Other,18.0,280.0
-Female,2013,Other,18.0,320.0
-Male,2019,Other,18.0,321.0
-Unisex,2019,Other,18.0,335.0
-Male,2020,Other,18.0,338.0
-Male,2016,Other,18.0,350.0
-Female,2017,Other,18.0,350.0
-Female,2020,Other,18.0,350.0
-Male,2010,Other,18.0,360.0
-Male,2017,Other,18.0,365.0
-Female,2020,Other,17.0,250.0
-Female,2015,Other,17.0,260.0
-Male,2020,Other,17.0,275.0
-Unisex,2018,Other,17.0,300.0
-Male,2014,Other,17.0,319.0
-Female,2014,Other,17.0,321.0
-Female,2019,Other,17.0,324.0
-Female,2016,Other,17.0,325.0
-Male,2013,Other,17.0,330.0
-Male,2011,Other,17.0,334.0
-Female,2017,Other,17.0,340.0
-Female,2020,Other,17.0,350.0
-Female,2018,Other,17.0,350.0
-Male,2011,Other,17.0,360.0
-Female,2016,Other,17.0,370.0
-Female,2015,Other,16.0,250.0
-Female,2016,Other,16.0,275.0
-Female,2011,Other,16.0,319.0
-Female,2018,Other,16.0,325.0
-Male,2015,Other,16.0,325.0
-Unisex,2011,Other,16.0,330.0
-Female,2018,Other,16.0,340.0
-Female,2018,Other,16.0,343.0
-Female,2016,Other,16.0,350.0
-Male,2020,Other,16.0,359.71
-Female,2020,Other,15.0,250.0
-Male,2019,Other,15.0,260.0
-Male,2018,Other,15.0,280.0
-Male,2015,Other,15.0,300.0
-Unisex,2018,Other,15.0,310.73
-Female,2011,Other,15.0,318.0
-Female,2020,Other,15.0,325.0
-Male,2014,Other,15.0,325.0
-Female,2015,Other,15.0,330.41
-Unknown,2011,Other,15.0,350.0
-Male,2010,Other,14.0,250.0
-Male,2013,Other,14.0,260.0
-Male,2020,Other,14.0,260.0
-Male,2019,Other,14.0,280.0
-Female,2010,Other,14.0,285.0
-Female,2015,Other,14.0,290.0
-Female,2011,Other,14.0,300.0
-Male,2017,Other,14.0,310.0
-Female,2020,Other,14.0,316.0
-Female,2020,Other,14.0,325.0
-Female,2014,Other,14.0,325.0
-Male,2016,Other,13.0,225.0
-Female,2013,Other,13.0,235.0
-Female,2015,Other,13.0,260.0
-Female,2017,Other,13.0,278.9
-Female,2018,Other,13.0,280.0
-Male,2020,Other,13.0,300.0
-Male,2019,Other,13.0,310.0
-Male,2013,Other,13.0,315.0
-Female,2010,Other,12.0,225.0
-Female,2014,Other,12.0,250.0
-Female,2019,Other,12.0,250.0
-Male,2010,Other,12.0,270.0
-Female,2011,Other,12.0,270.0
-Female,2018,Other,12.0,275.0
-Female,2020,Other,12.0,275.0
-Female,2016,Other,12.0,280.0
-Male,2011,Other,12.0,290.0
-Female,2014,Other,12.0,300.0
-Female,2016,Other,12.0,314.0
-Male,2019,Other,11.0,239.32
-Male,2020,Other,11.0,270.0
-Female,2018,Other,11.0,275.0
-Male,2019,Other,11.0,300.0
-Male,2019,Other,11.0,310.0
-Male,2013,Other,10.0,200.0
-Male,2019,Other,10.0,200.0
-Female,2016,Other,10.0,200.0
-Female,2017,Other,10.0,200.0
-Male,2013,Other,10.0,200.0
-Female,2018,Other,10.0,200.0
-Male,2014,Other,10.0,200.0
-Male,2020,Other,10.0,210.0
-Unisex,2016,Other,10.0,220.0
-Male,2012,Other,10.0,220.0
-Male,2014,Other,10.0,225.0
-Female,2010,Other,10.0,225.0
-Female,2012,Other,10.0,225.0
-Male,2015,Other,10.0,225.0
-Male,2018,Other,10.0,225.0
-Male,2017,Other,10.0,225.0
-Male,2014,Other,10.0,225.0
-Male,2013,Other,10.0,250.0
-Male,2012,Other,10.0,250.0
-Female,2012,Other,10.0,250.0
-Male,2015,Other,10.0,250.0
-Male,2020,Other,10.0,250.0
-Unknown,2017,Other,10.0,250.0
-Female,2010,Other,10.0,250.0
-Male,2014,Other,10.0,250.0
-Male,2018,Other,10.0,250.0
-Female,2015,Other,10.0,250.0
-Female,2019,Other,10.0,250.0
-Male,2018,Other,10.0,250.0
-Female,2017,Other,10.0,250.0
-Female,2010,Other,10.0,250.0
-Female,2010,Other,10.0,250.0
-Unisex,2012,Other,10.0,260.0
-Male,2018,Other,10.0,261.29
-Female,2013,Other,10.0,265.0
-Male,2010,Other,10.0,275.0
-Female,2018,Other,10.0,310.0
-Female,2013,Other,9.0,160.0
-Female,2017,Other,9.0,175.0
-Male,2016,Other,9.0,175.0
-Female,2013,Other,9.0,200.0
-Male,2017,Other,9.0,210.0
-Male,2018,Other,9.0,250.0
-Unknown,2012,Other,9.0,258.0
-Female,2015,Other,9.0,275.0
-Female,2014,Other,9.0,290.0
-Female,2010,Other,8.0,180.0
-Male,2012,Other,8.0,200.0
-Female,2015,Other,8.0,200.0
-Male,2020,Other,8.0,200.0
-Female,2012,Other,8.0,200.0
-Male,2015,Other,8.0,225.0
-Female,2013,Other,8.0,230.0
-Male,2020,Other,8.0,275.0
-Male,2018,Other,7.0,170.0
-Female,2016,Other,7.0,175.0
-Male,2019,Other,7.0,175.0
-Male,2015,Other,7.0,190.0
-Male,2013,Other,7.0,200.0
-Unisex,2012,Other,7.0,220.0
-Female,2018,Other,7.0,225.0
-Unisex,2015,Other,7.0,230.0
-Male,2016,Other,7.0,250.0
-Male,2011,Other,7.0,275.0
-Male,2016,Other,6.0,150.0
-Female,2015,Other,6.0,195.0
-Female,2014,Other,5.0,160.0
-Male,2017,Other,5.0,175.0
-Female,2016,Other,5.0,175.0
-Female,2010,Other,5.0,175.0
-Male,2018,Other,5.0,185.0
-Female,2018,Other,5.0,200.0
-Female,2012,Other,5.0,200.0
-Female,2011,Other,5.0,220.0
-Male,2017,Other,5.0,225.0
-Male,2018,Other,5.0,225.0
-Male,2014,Other,5.0,225.0
-Female,2018,Other,5.0,225.0
-Unknown,2018,Other,5.0,225.0
-Female,2019,Other,5.0,250.0
-Male,2012,Other,5.0,300.0
-Male,2019,Other,5.0,300.0
-Female,2012,Other,3.0,175.0
-Male,2019,Other,3.0,220.0
-Male,2012,Other,2.0,160.0
-Female,2012,Other,2.0,175.0
-Male,2019,Robbery,60.0,308.0
-Female,2013,Robbery,60.0,338.0
-Male,2017,Robbery,60.0,338.0
-Female,2020,Robbery,60.0,340.0
-Female,2018,Robbery,60.0,343.0
-Female,2017,Robbery,60.0,349.0
-Female,2019,Robbery,60.0,358.0
-Female,2019,Robbery,60.0,362.5
-Male,2020,Robbery,60.0,376.0
-Female,2011,Robbery,60.0,382.0
-Female,2011,Robbery,60.0,401.5
-Male,2019,Robbery,60.0,402.0
-Female,2016,Robbery,60.0,411.0
-Male,2013,Robbery,60.0,412.0
-Female,2018,Robbery,60.0,423.0
-Male,2011,Robbery,60.0,426.12
-Male,2012,Robbery,60.0,427.0
-Female,2016,Robbery,60.0,428.0
-Female,2017,Robbery,60.0,430.0
-Female,2014,Robbery,60.0,458.0
-Unisex,2020,Robbery,59.0,316.0
-Female,2012,Robbery,59.0,385.0
-Male,2015,Robbery,58.0,323.0
-Female,2011,Robbery,58.0,392.0
-Male,2012,Robbery,58.0,423.0
-Male,2015,Robbery,58.0,442.0
-Female,2014,Robbery,58.0,452.0
-Male,2014,Robbery,57.0,325.0
-Female,2012,Robbery,57.0,395.5
-Female,2015,Robbery,57.0,452.0
-Male,2011,Robbery,57.0,453.0
-Female,2017,Robbery,57.0,459.0
-Female,2016,Robbery,56.0,325.0
-Female,2020,Robbery,56.0,398.0
-Female,2017,Robbery,56.0,448.0
-Male,2016,Robbery,56.0,451.0
-Female,2010,Robbery,56.0,462.0
-Female,2014,Robbery,55.0,326.0
-Male,2010,Robbery,55.0,399.0
-Male,2013,Robbery,55.0,399.0
-Unisex,2018,Robbery,55.0,420.0
-Male,2013,Robbery,55.0,422.0
-Female,2020,Robbery,55.0,425.0
-Female,2014,Robbery,55.0,428.0
-Male,2013,Robbery,55.0,428.0
-Male,2019,Robbery,55.0,443.0
-Female,2014,Robbery,55.0,449.0
-Male,2018,Robbery,55.0,451.0
-Male,2010,Robbery,54.0,405.0
-Female,2014,Robbery,54.0,433.0
-Male,2013,Robbery,54.0,463.0
-Female,2010,Robbery,53.0,414.0
-Male,2016,Robbery,53.0,431.0
-Female,2020,Robbery,53.0,445.0
-Female,2019,Robbery,52.0,411.0
-Male,2012,Robbery,52.0,426.0
-Female,2014,Robbery,52.0,439.0
-Female,2015,Robbery,51.0,375.0
-Female,2020,Robbery,51.0,379.0
-Male,2011,Robbery,51.0,390.0
-Male,2012,Robbery,51.0,427.0
-Male,2014,Robbery,51.0,446.0
-Female,2017,Robbery,51.0,459.0
-Female,2012,Robbery,50.0,307.0
-Female,2013,Robbery,50.0,328.0
-Male,2017,Robbery,50.0,334.0
-Female,2012,Robbery,50.0,348.0
-Male,2014,Robbery,50.0,366.0
-Female,2016,Robbery,50.0,374.0
-Male,2012,Robbery,49.0,400.0
-Female,2010,Robbery,49.0,407.0
-Female,2017,Robbery,49.0,408.0
-Male,2019,Robbery,48.0,437.0
-Female,2019,Robbery,48.0,441.0
-Male,2014,Robbery,48.0,461.0
-Male,2017,Robbery,45.0,350.0
-Female,2018,Robbery,45.0,352.0
-Male,2017,Robbery,45.0,375.0
-Male,2013,Robbery,45.0,410.0
-Female,2016,Robbery,45.0,415.0
-Male,2020,Robbery,45.0,418.0
-Male,2014,Robbery,45.0,446.0
-Male,2019,Robbery,45.0,453.0
-Male,2014,Robbery,45.0,458.0
-Female,2011,Robbery,40.0,310.0
-Male,2018,Robbery,40.0,335.0
-Female,2019,Robbery,40.0,339.0
-Male,2017,Robbery,40.0,350.0
-Male,2015,Robbery,40.0,351.0
-Male,2011,Robbery,40.0,355.0
-Male,2018,Robbery,40.0,358.0
-Male,2011,Robbery,40.0,359.0
-Female,2020,Robbery,40.0,370.0
-Male,2020,Robbery,40.0,373.0
-Female,2020,Robbery,40.0,391.0
-Female,2020,Robbery,40.0,410.0
-Female,2011,Robbery,40.0,425.0
-Male,2015,Robbery,40.0,440.0
-Female,2013,Robbery,40.0,447.0
-Male,2013,Robbery,35.0,345.0
-Male,2016,Robbery,35.0,361.0
-Female,2012,Robbery,35.0,373.0
-Male,2017,Robbery,35.0,373.0
-Female,2010,Robbery,35.0,393.0
-Male,2017,Robbery,35.0,395.0
-Male,2014,Robbery,34.0,330.0
-Male,2017,Robbery,34.0,344.0
-Male,2019,Robbery,34.0,380.0
-Male,2011,Robbery,34.0,381.0
-Female,2017,Robbery,34.0,385.0
-Male,2019,Robbery,33.0,343.0
-Female,2015,Robbery,33.0,366.0
-Male,2012,Robbery,33.0,390.0
-Unisex,2019,Robbery,32.0,293.0
-Male,2010,Robbery,32.0,311.0
-Female,2020,Robbery,32.0,370.0
-Male,2010,Robbery,32.0,396.0
-Unisex,2010,Robbery,31.0,295.0
-Female,2013,Robbery,31.0,306.0
-Female,2015,Robbery,31.0,306.0
-Female,2019,Robbery,31.0,371.0
-Female,2016,Robbery,30.0,376.0
-Male,2010,Robbery,30.0,377.0
-Male,2018,Robbery,30.0,379.0
-Male,2016,Robbery,30.0,389.0
-Male,2010,Robbery,29.0,350.0
-Male,2018,Robbery,29.0,356.0
-Unisex,2018,Robbery,29.0,380.0
-Male,2018,Robbery,28.0,330.0
-Female,2011,Robbery,28.0,350.0
-Female,2019,Robbery,28.0,355.0
-Male,2015,Robbery,28.0,360.0
-Female,2019,Robbery,28.0,375.0
-Female,2018,Robbery,28.0,375.0
-Female,2013,Robbery,27.0,327.0
-Male,2013,Robbery,27.0,345.0
-Female,2013,Robbery,27.0,350.0
-Male,2019,Robbery,27.0,375.0
-Male,2017,Robbery,26.0,320.0
-Female,2015,Robbery,26.0,345.0
-Male,2010,Robbery,26.0,350.0
-Male,2012,Robbery,26.0,375.0
-Female,2015,Robbery,25.0,310.0
-Male,2017,Robbery,25.0,310.0
-Male,2016,Robbery,25.0,320.0
-Female,2016,Robbery,25.0,325.0
-Male,2016,Robbery,25.0,340.0
-Male,2014,Robbery,25.0,340.0
-Female,2018,Robbery,25.0,340.0
-Female,2011,Robbery,25.0,350.0
-Female,2014,Robbery,25.0,350.0
-Unisex,2013,Robbery,25.0,350.0
-Male,2015,Robbery,25.0,350.0
-Female,2020,Robbery,25.0,350.0
-Female,2015,Robbery,25.0,375.0
-Male,2020,Robbery,25.0,400.0
-Male,2012,Robbery,25.0,400.0
-Male,2016,Robbery,24.0,300.0
-Male,2015,Robbery,24.0,338.0
-Male,2018,Robbery,24.0,350.0
-Female,2014,Robbery,23.0,325.0
-Male,2013,Robbery,23.0,337.0
-Female,2017,Robbery,22.0,310.25
-Male,2012,Robbery,22.0,335.0
-Female,2014,Robbery,21.0,300.0
-Female,2015,Robbery,21.0,330.0
-Male,2017,Robbery,21.0,340.0
-Male,2017,Robbery,20.0,300.0
-Female,2012,Robbery,20.0,325.0
-Male,2012,Robbery,20.0,344.0
-Female,2012,Robbery,20.0,350.0
-Female,2011,Robbery,20.0,965.0
-Female,2011,Robbery,19.0,300.0
-Female,2019,Robbery,19.0,310.0
-Male,2020,Robbery,18.0,250.0
-Male,2016,Robbery,18.0,250.0
-Female,2018,Robbery,18.0,280.0
-Male,2015,Robbery,18.0,280.26
-Male,2016,Robbery,18.0,320.0
-Male,2020,Robbery,18.0,324.0
-Female,2018,Robbery,18.0,325.0
-Male,2017,Robbery,18.0,325.0
-Female,2017,Robbery,17.0,240.0
-Male,2017,Robbery,17.0,262.25
-Female,2017,Robbery,17.0,280.0
-Female,2012,Robbery,17.0,315.0
-Female,2010,Robbery,17.0,315.0
-Female,2018,Robbery,16.0,246.0
-Female,2018,Robbery,16.0,275.0
-Female,2015,Robbery,16.0,312.0
-Female,2019,Robbery,15.0,250.0
-Female,2016,Robbery,15.0,250.0
-Female,2017,Robbery,15.0,250.0
-Female,2020,Robbery,15.0,250.0
-Male,2012,Robbery,15.0,250.0
-Female,2016,Robbery,15.0,250.0
-Male,2010,Robbery,15.0,250.0
-Male,2019,Robbery,15.0,250.0
-Male,2016,Robbery,15.0,250.0
-Female,2017,Robbery,15.0,275.0
-Unisex,2017,Robbery,15.0,310.0
-Female,2016,Robbery,14.0,210.0
-Female,2015,Robbery,14.0,210.0
-Female,2015,Robbery,14.0,230.0
-Female,2016,Robbery,14.0,250.0
-Female,2020,Robbery,14.0,250.0
-Male,2012,Robbery,14.0,275.0
-Male,2010,Robbery,13.0,230.0
-Female,2020,Robbery,13.0,250.0
-Male,2017,Robbery,13.0,250.0
-Female,2018,Robbery,13.0,250.0
-Female,2010,Robbery,13.0,270.0
-Male,2011,Robbery,13.0,275.0
-Unisex,2013,Robbery,13.0,325.0
-Female,2016,Robbery,12.0,185.0
-Female,2012,Robbery,12.0,200.0
-Female,2015,Robbery,12.0,210.0
-Female,2014,Robbery,12.0,230.0
-Female,2015,Robbery,12.0,250.0
-Male,2010,Robbery,12.0,270.0
-Female,2012,Robbery,11.0,200.0
-Female,2014,Robbery,11.0,225.0
-Female,2016,Robbery,11.0,250.0
-Female,2017,Robbery,11.0,275.0
-Male,2014,Robbery,10.0,200.0
-Female,2012,Robbery,10.0,210.0
-Female,2018,Robbery,10.0,210.0
-Male,2017,Robbery,10.0,212.0
-Male,2016,Robbery,10.0,215.0
-Female,2017,Robbery,10.0,220.0
-Female,2011,Robbery,10.0,220.0
-Unisex,2020,Robbery,10.0,225.0
-Unknown,2010,Robbery,10.0,245.0
-Male,2012,Robbery,10.0,245.0
-Female,2012,Robbery,10.0,250.0
-Male,2018,Robbery,10.0,250.0
-Female,2013,Robbery,10.0,250.0
-Female,2015,Robbery,10.0,250.0
-Female,2019,Robbery,10.0,250.0
-Female,2010,Robbery,10.0,250.0
-Male,2011,Robbery,10.0,250.0
-Female,2017,Robbery,10.0,250.0
-Male,2020,Robbery,10.0,250.0
-Female,2011,Robbery,10.0,250.0
-Male,2010,Robbery,10.0,250.0
-Female,2017,Robbery,10.0,260.0
-Male,2017,Robbery,10.0,260.0
-Male,2012,Robbery,10.0,265.0
-Male,2010,Robbery,10.0,275.0
-Female,2013,Robbery,10.0,275.0
-Female,2020,Robbery,10.0,275.0
-Female,2015,Robbery,10.0,295.0
-Male,2012,Robbery,10.0,315.0
-Male,2016,Robbery,9.0,180.0
-Female,2015,Robbery,9.0,190.0
-Male,2019,Robbery,9.0,200.0
-Male,2010,Robbery,9.0,235.0
-Female,2011,Robbery,9.0,250.0
-Female,2019,Robbery,8.0,160.0
-Female,2015,Robbery,8.0,200.0
-Male,2015,Robbery,8.0,200.0
-Male,2014,Robbery,8.0,220.0
-Female,2018,Robbery,8.0,230.0
-Female,2017,Robbery,8.0,275.0
-Male,2012,Robbery,7.0,200.0
-Female,2020,Robbery,7.0,200.0
-Male,2013,Robbery,7.0,200.0
-Female,2010,Robbery,7.0,200.0
-Male,2010,Robbery,7.0,220.0
-Male,2012,Robbery,7.0,225.0
-Female,2017,Robbery,7.0,225.0
-Male,2017,Robbery,7.0,240.0
-Female,2010,Robbery,6.0,200.0
-Female,2017,Robbery,6.0,200.0
-Female,2016,Robbery,6.0,220.0
-Female,2019,Robbery,6.0,225.0
-Female,2016,Robbery,5.0,170.0
-Female,2012,Robbery,5.0,195.0
-Male,2015,Robbery,5.0,200.0
-Female,2013,Robbery,5.0,220.0
-Female,2010,Robbery,5.0,225.0
-Male,2010,Robbery,5.0,235.0
-Female,2010,Robbery,4.0,175.0
-Unisex,2018,Robbery,4.0,190.0
-Male,2012,Robbery,4.0,225.0
-Male,2016,Robbery,3.0,170.0
-Male,2015,Robbery,2.0,160.0
-Unknown,2014,Robbery,2.0,175.0
-Male,2019,Robbery,2.0,200.0
-Female,2016,Robbery,1.0,110.0
-Female,2011,Sexual Assault,50.0,333.0
-Male,2016,Sexual Assault,50.0,345.0
-Female,2011,Sexual Assault,50.0,375.0
-Female,2019,Sexual Assault,50.0,375.0
-Female,2020,Sexual Assault,50.0,385.0
-Female,2013,Sexual Assault,50.0,395.0
-Female,2014,Sexual Assault,50.0,395.0
-Male,2010,Sexual Assault,48.0,347.0
-Male,2012,Sexual Assault,48.0,352.0
-Male,2010,Sexual Assault,48.0,388.0
-Female,2012,Sexual Assault,47.0,342.0
-Male,2018,Sexual Assault,47.0,343.0
-Female,2010,Sexual Assault,47.0,351.0
-Male,2010,Sexual Assault,47.0,353.0
-Male,2015,Sexual Assault,47.0,354.0
-Female,2017,Sexual Assault,47.0,360.0
-Female,2012,Sexual Assault,46.0,342.0
-Female,2016,Sexual Assault,46.0,348.0
-Male,2014,Sexual Assault,46.0,355.0
-Male,2013,Sexual Assault,46.0,360.0
-Male,2013,Sexual Assault,46.0,360.0
-Male,2012,Sexual Assault,46.0,365.0
-Female,2018,Sexual Assault,46.0,372.0
-Female,2019,Sexual Assault,46.0,380.0
-Male,2020,Sexual Assault,45.0,323.0
-Male,2011,Sexual Assault,45.0,329.0
-Female,2013,Sexual Assault,45.0,354.0
-Male,2016,Sexual Assault,45.0,364.0
-Male,2016,Sexual Assault,45.0,374.0
-Male,2014,Sexual Assault,45.0,377.0
-Male,2019,Sexual Assault,45.0,381.0
-Male,2011,Sexual Assault,45.0,383.0
-Female,2012,Sexual Assault,45.0,396.0
-Female,2016,Sexual Assault,45.0,401.0
-Male,2010,Sexual Assault,45.0,960.0
-Female,2013,Sexual Assault,44.0,351.0
-Female,2018,Sexual Assault,43.0,332.0
-Female,2018,Sexual Assault,42.0,325.0
-Female,2013,Sexual Assault,41.0,321.0
-Male,2016,Sexual Assault,41.0,390.0
-Female,2014,Sexual Assault,40.0,288.0
-Male,2019,Sexual Assault,40.0,312.0
-Male,2018,Sexual Assault,40.0,343.0
-Female,2014,Sexual Assault,40.0,385.0
-Unisex,2011,Sexual Assault,40.0,388.0
-Male,2020,Sexual Assault,40.0,396.0
-Male,2013,Sexual Assault,39.0,287.0
-Male,2015,Sexual Assault,39.0,301.0
-Male,2016,Sexual Assault,39.0,350.0
-Female,2014,Sexual Assault,38.0,287.0
-Male,2018,Sexual Assault,38.0,299.0
-Female,2016,Sexual Assault,38.0,331.0
-Female,2015,Sexual Assault,38.0,366.0
-Male,2017,Sexual Assault,37.0,284.0
-Male,2020,Sexual Assault,37.0,299.0
-Male,2014,Sexual Assault,37.0,329.0
-Male,2017,Sexual Assault,37.0,333.0
-Female,2014,Sexual Assault,36.0,281.0
-Male,2017,Sexual Assault,36.0,323.0
-Female,2012,Sexual Assault,36.0,335.0
-Male,2013,Sexual Assault,36.0,337.0
-Female,2016,Sexual Assault,35.0,277.0
-Female,2015,Sexual Assault,35.0,291.0
-Female,2020,Sexual Assault,35.0,309.0
-Female,2016,Sexual Assault,35.0,334.0
-Female,2017,Sexual Assault,34.0,324.0
-Female,2012,Sexual Assault,34.0,334.0
-Female,2017,Sexual Assault,33.0,275.0
-Male,2013,Sexual Assault,33.0,284.0
-Female,2017,Sexual Assault,33.0,299.0
-Male,2016,Sexual Assault,33.0,302.0
-Male,2012,Sexual Assault,33.0,305.0
-Female,2018,Sexual Assault,33.0,309.0
-Female,2017,Sexual Assault,33.0,322.0
-Female,2014,Sexual Assault,33.0,356.0
-Male,2014,Sexual Assault,33.0,360.0
-Female,2013,Sexual Assault,32.0,305.0
-Female,2017,Sexual Assault,32.0,320.0
-Male,2014,Sexual Assault,32.0,346.0
-Female,2020,Sexual Assault,32.0,349.0
-Male,2014,Sexual Assault,32.0,364.0
-Male,2013,Sexual Assault,32.0,364.0
-Male,2018,Sexual Assault,31.0,306.0
-Female,2013,Sexual Assault,31.0,350.0
-Female,2020,Sexual Assault,30.0,290.0
-Female,2018,Sexual Assault,30.0,302.0
-Female,2017,Sexual Assault,30.0,344.0
-Male,2012,Sexual Assault,30.0,850.0
-Female,2019,Sexual Assault,29.0,301.0
-Male,2010,Sexual Assault,29.0,342.0
-Female,2012,Sexual Assault,28.0,298.0
-Male,2011,Sexual Assault,28.0,334.0
-Male,2012,Sexual Assault,28.0,351.0
-Male,2010,Sexual Assault,27.0,320.0
-Male,2013,Sexual Assault,26.0,296.0
-Female,2010,Sexual Assault,26.0,360.0
-Female,2012,Sexual Assault,25.0,300.0
-Male,2019,Sexual Assault,25.0,310.0
-Female,2014,Sexual Assault,25.0,340.0
-Female,2015,Sexual Assault,25.0,340.75
-Male,2014,Sexual Assault,25.0,350.0
-Male,2012,Sexual Assault,25.0,371.15
-Female,2010,Sexual Assault,24.0,375.0
-Female,2012,Sexual Assault,23.0,300.0
-Male,2016,Sexual Assault,23.0,300.0
-Male,2015,Sexual Assault,22.0,300.0
-Male,2015,Sexual Assault,22.0,325.0
-Unisex,2016,Sexual Assault,22.0,355.0
-Female,2013,Sexual Assault,21.0,250.0
-Male,2016,Sexual Assault,21.0,300.0
-Male,2013,Sexual Assault,21.0,310.0
-Male,2012,Sexual Assault,21.0,350.0
-Unisex,2016,Sexual Assault,20.0,250.0
-Female,2019,Sexual Assault,20.0,270.0
-Male,2012,Sexual Assault,20.0,280.0
-Female,2016,Sexual Assault,20.0,305.0
-Male,2019,Sexual Assault,20.0,350.0
-Female,2011,Sexual Assault,19.0,248.0
-Female,2012,Sexual Assault,19.0,250.0
-Male,2010,Sexual Assault,19.0,275.0
-Male,2012,Sexual Assault,19.0,275.0
-Female,2014,Sexual Assault,19.0,305.0
-Female,2016,Sexual Assault,18.0,225.0
-Male,2020,Sexual Assault,18.0,240.0
-Female,2014,Sexual Assault,18.0,245.0
-Female,2020,Sexual Assault,18.0,250.0
-Female,2010,Sexual Assault,18.0,275.0
-Female,2019,Sexual Assault,18.0,300.0
-Male,2015,Sexual Assault,17.0,245.0
-Female,2010,Sexual Assault,17.0,247.0
-Female,2019,Sexual Assault,17.0,250.0
-Female,2010,Sexual Assault,17.0,260.0
-Female,2013,Sexual Assault,17.0,275.0
-Male,2014,Sexual Assault,17.0,275.0
-Unisex,2014,Sexual Assault,17.0,300.0
-Male,2013,Sexual Assault,17.0,350.0
-Male,2010,Sexual Assault,16.0,225.0
-Male,2015,Sexual Assault,16.0,250.0
-Female,2014,Sexual Assault,16.0,252.0
-Male,2014,Sexual Assault,16.0,270.0
-Female,2019,Sexual Assault,16.0,300.0
-Female,2012,Sexual Assault,15.0,200.0
-Female,2017,Sexual Assault,15.0,225.0
-Unisex,2014,Sexual Assault,15.0,235.8
-Male,2010,Sexual Assault,15.0,255.0
-Female,2011,Sexual Assault,15.0,265.0
-Male,2013,Sexual Assault,15.0,300.0
-Male,2016,Sexual Assault,15.0,350.0
-Male,2010,Sexual Assault,15.0,350.5
-Male,2020,Sexual Assault,14.0,225.0
-Male,2011,Sexual Assault,14.0,225.0
-Male,2018,Sexual Assault,14.0,235.0
-Female,2017,Sexual Assault,14.0,350.0
-Female,2010,Sexual Assault,14.0,350.0
-Male,2014,Sexual Assault,13.0,220.0
-Female,2014,Sexual Assault,13.0,235.0
-Male,2016,Sexual Assault,13.0,275.0
-Unknown,2011,Sexual Assault,13.0,328.0
-Male,2014,Sexual Assault,12.0,200.0
-Female,2014,Sexual Assault,12.0,225.0
-Female,2012,Sexual Assault,12.0,230.0
-Female,2011,Sexual Assault,12.0,275.0
-Male,2013,Sexual Assault,12.0,280.0
-Female,2015,Sexual Assault,12.0,300.0
-Male,2019,Sexual Assault,11.0,200.0
-Female,2012,Sexual Assault,11.0,225.0
-Female,2018,Sexual Assault,11.0,275.0
-Female,2018,Sexual Assault,10.0,170.0
-Male,2011,Sexual Assault,10.0,175.0
-Female,2017,Sexual Assault,10.0,180.0
-Male,2019,Sexual Assault,10.0,200.0
-Unknown,2014,Sexual Assault,10.0,200.0
-Female,2014,Sexual Assault,10.0,200.0
-Male,2019,Sexual Assault,10.0,200.0
-Unisex,2016,Sexual Assault,10.0,210.0
-Female,2018,Sexual Assault,10.0,210.0
-Male,2015,Sexual Assault,10.0,220.0
-Male,2016,Sexual Assault,10.0,225.0
-Female,2016,Sexual Assault,10.0,225.0
-Male,2017,Sexual Assault,10.0,230.0
-Female,2017,Sexual Assault,10.0,230.0
-Female,2016,Sexual Assault,10.0,275.0
-Unisex,2010,Sexual Assault,9.0,200.0
-Male,2015,Sexual Assault,9.0,200.0
-Male,2015,Sexual Assault,9.0,235.0
-Female,2012,Sexual Assault,9.0,240.0
-Female,2018,Sexual Assault,9.0,250.0
-Female,2011,Sexual Assault,8.0,200.0
-Female,2017,Sexual Assault,8.0,200.0
-Male,2012,Sexual Assault,8.0,230.0
-Female,2016,Sexual Assault,8.0,238.38
-Unisex,2015,Sexual Assault,8.0,250.0
-Female,2020,Sexual Assault,7.0,175.0
-Male,2020,Sexual Assault,7.0,190.0
-Unknown,2014,Sexual Assault,7.0,200.0
-Male,2016,Sexual Assault,7.0,200.0
-Male,2011,Sexual Assault,7.0,210.0
-Female,2014,Sexual Assault,7.0,210.0
-Male,2018,Sexual Assault,7.0,212.0
-Male,2014,Sexual Assault,7.0,232.0
-Male,2020,Sexual Assault,7.0,275.0
-Female,2017,Sexual Assault,7.0,280.0
-Male,2012,Sexual Assault,7.0,285.0
-Female,2015,Sexual Assault,6.0,180.0
-Male,2011,Sexual Assault,6.0,205.0
-Unknown,2019,Sexual Assault,6.0,208.0
-Female,2014,Sexual Assault,5.0,180.0
-Male,2020,Sexual Assault,5.0,200.0
-Female,2011,Sexual Assault,5.0,200.0
-Female,2019,Sexual Assault,5.0,215.0
-Male,2010,Sexual Assault,5.0,225.0
-Male,2014,Sexual Assault,5.0,225.0
-Female,2019,Sexual Assault,5.0,250.0
-Unisex,2019,Sexual Assault,5.0,250.0
-Female,2013,Sexual Assault,4.0,228.0
-Male,2014,Sexual Assault,3.0,160.0
-Male,2010,Sexual Assault,3.0,220.0
-Female,2016,Weapons,45.0,355.0
-Male,2014,Weapons,45.0,355.0
-Female,2014,Weapons,45.0,780.0
-Male,2018,Weapons,44.0,357.0
-Female,2015,Weapons,44.0,358.0
-Male,2016,Weapons,43.0,359.0
-Female,2012,Weapons,43.0,375.0
-Unknown,2012,Weapons,42.0,320.0
-Male,2018,Weapons,42.0,320.0
-Male,2010,Weapons,42.0,320.0
-Male,2015,Weapons,42.0,360.0
-Male,2016,Weapons,42.0,370.0
-Female,2014,Weapons,41.0,325.0
-Female,2011,Weapons,41.0,355.0
-Male,2016,Weapons,40.0,330.0
-Female,2015,Weapons,40.0,354.0
-Male,2012,Weapons,39.0,320.0
-Female,2018,Weapons,39.0,325.0
-Female,2010,Weapons,39.0,340.0
-Male,2014,Weapons,38.0,325.0
-Male,2018,Weapons,38.0,328.0
-Female,2013,Weapons,37.0,375.0
-Female,2014,Weapons,36.0,370.0
-Female,2018,Weapons,36.0,370.0
-Female,2016,Weapons,35.0,360.0
-Male,2013,Weapons,35.0,360.0
-Male,2019,Weapons,34.0,325.0
-Female,2015,Weapons,34.0,325.0
-Female,2015,Weapons,33.0,310.0
-Male,2019,Weapons,33.0,315.0
-Female,2017,Weapons,32.0,325.0
-Female,2020,Weapons,32.0,330.0
-Female,2018,Weapons,31.0,315.0
-Female,2012,Weapons,31.0,320.0
-Female,2010,Weapons,30.0,310.0
-Female,2016,Weapons,30.0,320.0
-Male,2017,Weapons,30.0,320.0
-Female,2012,Weapons,30.0,325.0
-Female,2017,Weapons,30.0,328.0
-Male,2012,Weapons,30.0,357.0
-Male,2010,Weapons,30.0,360.0
-Female,2011,Weapons,30.0,375.0
-Male,2019,Weapons,30.0,390.0
-Female,2015,Weapons,29.0,310.0
-Male,2015,Weapons,29.0,318.0
-Male,2013,Weapons,29.0,325.0
-Female,2010,Weapons,29.0,325.0
-Female,2018,Weapons,29.0,325.0
-Male,2012,Weapons,29.0,345.0
-Male,2015,Weapons,29.0,355.0
-Male,2013,Weapons,29.0,370.0
-Female,2012,Weapons,29.0,375.0
-Female,2016,Weapons,29.0,391.0
-Female,2019,Weapons,28.0,300.0
-Female,2018,Weapons,28.0,320.0
-Female,2020,Weapons,28.0,320.0
-Female,2017,Weapons,28.0,325.0
-Female,2011,Weapons,28.0,325.0
-Unknown,2015,Weapons,28.0,340.0
-Female,2011,Weapons,28.0,345.0
-Male,2019,Weapons,28.0,355.0
-Female,2013,Weapons,28.0,356.0
-Male,2017,Weapons,28.0,375.0
-Female,2011,Weapons,27.0,310.0
-Female,2014,Weapons,27.0,319.0
-Male,2020,Weapons,27.0,320.0
-Male,2015,Weapons,27.0,320.0
-Female,2016,Weapons,27.0,325.0
-Male,2019,Weapons,27.0,341.0
-Female,2012,Weapons,27.0,343.0
-Female,2014,Weapons,27.0,345.0
-Female,2019,Weapons,27.0,352.0
-Male,2019,Weapons,27.0,359.0
-Male,2014,Weapons,27.0,360.0
-Male,2016,Weapons,26.0,318.0
-Male,2019,Weapons,26.0,319.0
-Female,2015,Weapons,26.0,319.0
-Female,2018,Weapons,26.0,320.0
-Unisex,2017,Weapons,26.0,320.0
-Male,2012,Weapons,26.0,325.0
-Female,2010,Weapons,26.0,335.0
-Male,2020,Weapons,26.0,336.0
-Female,2017,Weapons,26.0,337.0
-Male,2018,Weapons,26.0,354.0
-Male,2020,Weapons,26.0,370.0
-Female,2015,Weapons,26.0,389.0
-Male,2016,Weapons,25.0,330.0
-Female,2010,Weapons,25.0,368.0
-Female,2014,Weapons,24.0,325.0
-Female,2020,Weapons,24.0,331.0
-Female,2014,Weapons,24.0,335.0
-Male,2013,Weapons,24.0,338.5
-Male,2014,Weapons,24.0,343.0
-Female,2016,Weapons,24.0,359.0
-Male,2013,Weapons,23.0,323.0
-Male,2013,Weapons,23.0,336.0
-Male,2016,Weapons,23.0,338.0
-Male,2015,Weapons,23.0,338.5
-Female,2011,Weapons,23.0,357.0
-Female,2014,Weapons,23.0,381.0
-Female,2012,Weapons,22.0,300.0
-Male,2011,Weapons,22.0,320.0
-Female,2018,Weapons,22.0,334.0
-Female,2015,Weapons,22.0,353.0
-Unknown,2011,Weapons,22.0,373.0
-Male,2010,Weapons,21.0,305.0
-Female,2016,Weapons,21.0,320.0
-Male,2019,Weapons,21.0,325.0
-Male,2013,Weapons,20.0,270.0
-Male,2019,Weapons,20.0,310.0
-Male,2020,Weapons,19.0,245.0
-Female,2016,Weapons,19.0,252.0
-Male,2011,Weapons,19.0,270.0
-Female,2020,Weapons,19.0,300.0
-Male,2016,Weapons,18.0,245.0
-Male,2017,Weapons,18.0,260.0
-Female,2011,Weapons,18.0,260.0
-Female,2012,Weapons,18.0,265.0
-Male,2016,Weapons,18.0,270.0
-Female,2017,Weapons,18.0,300.0
-Male,2016,Weapons,18.0,325.0
-Unisex,2012,Weapons,17.0,255.0
-Male,2012,Weapons,17.0,265.0
-Male,2012,Weapons,17.0,290.0
-Female,2011,Weapons,17.0,300.0
-Female,2010,Weapons,16.0,254.0
-Male,2018,Weapons,16.0,261.0
-Female,2013,Weapons,16.0,275.0
-Male,2013,Weapons,16.0,300.0
-Female,2010,Weapons,15.0,270.0
-Male,2017,Weapons,15.0,280.0
-Male,2018,Weapons,15.0,290.0
-Male,2012,Weapons,15.0,305.0
-Male,2019,Weapons,15.0,310.0
-Male,2013,Weapons,15.0,340.0
-Female,2010,Weapons,14.0,230.0
-Unisex,2015,Weapons,14.0,255.0
-Female,2010,Weapons,14.0,255.0
-Unknown,2020,Weapons,14.0,256.0
-Male,2015,Weapons,14.0,325.0
-Male,2010,Weapons,13.0,220.0
-Male,2012,Weapons,13.0,247.0
-Male,2016,Weapons,13.0,257.0
-Female,2019,Weapons,13.0,265.0
-Female,2018,Weapons,13.0,325.0
-Male,2010,Weapons,12.0,220.0
-Female,2013,Weapons,12.0,220.0
-Male,2014,Weapons,12.0,240.0
-Female,2011,Weapons,12.0,243.0
-Female,2014,Weapons,12.0,245.0
-Male,2014,Weapons,12.0,248.0
-Male,2012,Weapons,12.0,248.0
-Female,2012,Weapons,12.0,274.0
-Female,2018,Weapons,12.0,339.35
-Male,2020,Weapons,11.0,215.0
-Female,2019,Weapons,11.0,221.0
-Female,2020,Weapons,11.0,249.0
-Female,2017,Weapons,11.0,251.0
-Female,2018,Weapons,10.0,210.0
-Female,2015,Weapons,10.0,252.0
-Female,2017,Weapons,10.0,253.0
-Female,2020,Weapons,9.0,236.0
-Female,2015,Weapons,9.0,240.0
-Male,2014,Weapons,9.0,254.0
-Female,2020,Weapons,8.0,225.0
-Female,2016,Weapons,8.0,234.3
-Male,2019,Weapons,8.0,255.0
-Female,2011,Weapons,7.0,220.0
-Male,2010,Weapons,7.0,220.0
-Female,2014,Weapons,7.0,225.0
-Male,2020,Weapons,7.0,252.0
-Male,2010,Weapons,7.0,260.0
-Female,2013,Weapons,7.0,275.0
-Male,2020,Weapons,6.0,200.0
-Female,2017,Weapons,6.0,225.0
-Female,2013,Weapons,6.0,257.0
-Male,2014,Weapons,5.0,200.0
-Male,2020,Weapons,5.0,225.0
-Female,2017,Weapons,5.0,245.0
-Female,2014,Weapons,5.0,247.0
-Male,2016,Weapons,5.0,265.0
-Male,2016,Weapons,4.0,113.9
-Female,2013,Weapons,4.0,200.0
-Female,2017,Weapons,4.0,222.85
-Male,2018,Weapons,4.0,240.0
-Female,2018,Weapons,4.0,258.0
-Male,2020,Weapons,3.0,150.0
-Female,2017,Weapons,3.0,200.0
-Male,2017,Weapons,2.0,150.0
-Male,2019,Weapons,2.0,200.0
+Gender,Year,court_d,prep_h,charge
+Female,2018,1,150,Attempt Murder
+Female,2011,1,180,Attempt Murder
+Female,2019,1,200,Attempt Murder
+Male,2014,1,222.85,Attempt Murder
+Female,2010,2,180,Attempt Murder
+Female,2011,2,180,Attempt Murder
+Female,2014,2,193,Attempt Murder
+Male,2014,2,200,Attempt Murder
+Female,2012,2,225,Attempt Murder
+Male,2019,3,175,Attempt Murder
+Male,2016,3,250,Attempt Murder
+Female,2010,3,264,Attempt Murder
+Male,2011,3,275,Attempt Murder
+Male,2012,4,192,Attempt Murder
+Female,2016,4,200,Attempt Murder
+Male,2019,4,235,Attempt Murder
+Female,2010,4,240,Attempt Murder
+Male,2020,4,250,Attempt Murder
+Male,2010,4,280,Attempt Murder
+Female,2015,5,200,Attempt Murder
+Male,2019,5,210,Attempt Murder
+Female,2013,5,225,Attempt Murder
+Male,2019,5,238,Attempt Murder
+Female,2012,5,260,Attempt Murder
+Female,2015,5,275,Attempt Murder
+Female,2019,5,275,Attempt Murder
+Female,2018,5,280,Attempt Murder
+Unisex,2010,5,305,Attempt Murder
+Female,2010,6,200,Attempt Murder
+Male,2013,6,220,Attempt Murder
+Female,2018,6,225,Attempt Murder
+Female,2011,6,225,Attempt Murder
+Male,2011,6,265,Attempt Murder
+Female,2012,6,295,Attempt Murder
+Male,2018,6,318,Attempt Murder
+Female,2018,7,215,Attempt Murder
+Female,2013,7,285,Attempt Murder
+Male,2017,7,325,Attempt Murder
+Female,2013,8,245,Attempt Murder
+Unisex,2014,8,270,Attempt Murder
+Male,2016,8,275,Attempt Murder
+Female,2015,8,295,Attempt Murder
+Male,2018,8,316,Attempt Murder
+Male,2016,8,321,Attempt Murder
+Male,2010,9,313,Attempt Murder
+Male,2018,9,340,Attempt Murder
+Unisex,2015,9,347,Attempt Murder
+Male,2015,10,200,Attempt Murder
+Female,2020,10,258,Attempt Murder
+Male,2019,11,240,Attempt Murder
+Male,2014,11,242,Attempt Murder
+Male,2020,11,244,Attempt Murder
+Male,2014,11,268,Attempt Murder
+Male,2010,11,296,Attempt Murder
+Female,2011,11,319,Attempt Murder
+Female,2020,12,250,Attempt Murder
+Female,2010,12,275,Attempt Murder
+Male,2011,12,284,Attempt Murder
+Female,2015,12,286,Attempt Murder
+Female,2013,12,325,Attempt Murder
+Female,2020,12,361,Attempt Murder
+Female,2016,13,225,Attempt Murder
+Male,2010,13,265,Attempt Murder
+Male,2012,13,350,Attempt Murder
+Unisex,2012,13,366,Attempt Murder
+Male,2011,13,375,Attempt Murder
+Female,2017,13,379,Attempt Murder
+Female,2013,14,238.38,Attempt Murder
+Male,2015,14,239,Attempt Murder
+Female,2010,14,252,Attempt Murder
+Male,2020,14,286,Attempt Murder
+Unisex,2019,14,316,Attempt Murder
+Male,2012,14,320,Attempt Murder
+Male,2015,14,333,Attempt Murder
+Female,2018,14,369,Attempt Murder
+Male,2016,15,203,Attempt Murder
+Male,2010,15,280,Attempt Murder
+Male,2012,15,285,Attempt Murder
+Female,2013,15,300,Attempt Murder
+Male,2013,15,338,Attempt Murder
+Male,2017,15,362,Attempt Murder
+Male,2012,15,371,Attempt Murder
+Female,2012,17,225,Attempt Murder
+Male,2010,17,275,Attempt Murder
+Female,2019,17,275,Attempt Murder
+Male,2017,17,286,Attempt Murder
+Female,2011,17,338,Attempt Murder
+Unknown,2019,18,250,Attempt Murder
+Female,2018,18,274,Attempt Murder
+Female,2014,18,297,Attempt Murder
+Male,2018,18,321,Attempt Murder
+Female,2014,19,316,Attempt Murder
+Male,2016,19,362,Attempt Murder
+Female,2011,19,394,Attempt Murder
+Male,2016,20,237,Attempt Murder
+Female,2015,20,262,Attempt Murder
+Male,2017,20,340,Attempt Murder
+Male,2016,20,405,Attempt Murder
+Male,2019,21,250,Attempt Murder
+Male,2016,21,320,Attempt Murder
+Male,2016,21,321,Attempt Murder
+Female,2019,21,329,Attempt Murder
+Male,2018,21,334,Attempt Murder
+Female,2013,21,406,Attempt Murder
+Male,2012,22,225,Attempt Murder
+Unisex,2013,22,245,Attempt Murder
+Male,2016,22,250,Attempt Murder
+Female,2013,22,281,Attempt Murder
+Male,2012,22,285,Attempt Murder
+Male,2020,22,294,Attempt Murder
+Male,2017,22,391,Attempt Murder
+Female,2016,23,240,Attempt Murder
+Female,2010,23,264,Attempt Murder
+Male,2010,23,340,Attempt Murder
+Female,2019,24,275,Attempt Murder
+Female,2012,24,426,Attempt Murder
+Female,2015,25,280,Attempt Murder
+Female,2019,25,448,Attempt Murder
+Female,2010,26,256,Attempt Murder
+Male,2012,26,420,Attempt Murder
+Unknown,2013,27,392,Attempt Murder
+Female,2012,27,395,Attempt Murder
+Female,2018,28,250,Attempt Murder
+Male,2015,28,290,Attempt Murder
+Female,2020,28,298,Attempt Murder
+Male,2015,28,363,Attempt Murder
+Male,2018,28,370,Attempt Murder
+Unisex,2015,28,390,Attempt Murder
+Female,2015,29,295,Attempt Murder
+Male,2014,29,301,Attempt Murder
+Male,2015,29,350,Attempt Murder
+Male,2012,29,374,Attempt Murder
+Female,2019,29,383,Attempt Murder
+Female,2016,29,389,Attempt Murder
+Unisex,2019,30,250,Attempt Murder
+Female,2018,30,307,Attempt Murder
+Male,2019,31,352,Attempt Murder
+Male,2018,31,373,Attempt Murder
+Male,2012,32,270,Attempt Murder
+Male,2012,32,333,Attempt Murder
+Unknown,2013,33,310,Attempt Murder
+Unisex,2017,33,760,Attempt Murder
+Male,2010,35,304,Attempt Murder
+Female,2014,36,275,Attempt Murder
+Male,2018,36,332,Attempt Murder
+Male,2011,36,372,Attempt Murder
+Male,2020,36,410,Attempt Murder
+Unisex,2010,38,315,Attempt Murder
+Female,2012,39,426,Attempt Murder
+Female,2015,40,300,Attempt Murder
+Female,2010,40,323,Attempt Murder
+Male,2018,40,408,Attempt Murder
+Male,2012,40,445,Attempt Murder
+Male,2016,41,311,Attempt Murder
+Male,2011,41,408,Attempt Murder
+Female,2016,41,440,Attempt Murder
+Male,2015,41,456,Attempt Murder
+Unisex,2012,42,368,Attempt Murder
+Male,2013,43,303,Attempt Murder
+Male,2020,43,377,Attempt Murder
+Male,2015,43,381,Attempt Murder
+Male,2017,44,407,Attempt Murder
+Male,2018,44,409,Attempt Murder
+Female,2018,45,20,Attempt Murder
+Male,2019,45,414,Attempt Murder
+Female,2010,45,456,Attempt Murder
+Female,2015,46,348,Attempt Murder
+Female,2016,46,366,Attempt Murder
+Female,2013,46,425,Attempt Murder
+Male,2019,46,432,Attempt Murder
+Female,2013,48,338,Attempt Murder
+Male,2019,50,334,Attempt Murder
+Female,2016,50,372,Attempt Murder
+Male,2013,51,339,Attempt Murder
+Male,2013,51,360,Attempt Murder
+Female,2017,51,406,Attempt Murder
+Male,2020,52,420,Attempt Murder
+Female,2012,55,350,Attempt Murder
+Male,2015,55,360,Attempt Murder
+Male,2010,55,368,Attempt Murder
+Female,2013,56,358,Attempt Murder
+Male,2018,56,390,Attempt Murder
+Female,2012,1,190,Sexual Assault
+Female,2015,1,191,Sexual Assault
+Female,2010,1,200,Sexual Assault
+Male,2010,1,207,Sexual Assault
+Female,2011,1,208,Sexual Assault
+Female,2011,1,209,Sexual Assault
+Unisex,2013,1,209,Sexual Assault
+Female,2013,1,209,Sexual Assault
+Male,2011,1,210,Sexual Assault
+Female,2017,1,215,Sexual Assault
+Male,2020,2,210,Sexual Assault
+Male,2013,2,211,Sexual Assault
+Female,2012,2,215,Sexual Assault
+Female,2011,2,220,Sexual Assault
+Female,2010,2,225,Sexual Assault
+Male,2015,2,250,Sexual Assault
+Female,2014,2,250,Sexual Assault
+Unisex,2014,3,160,Sexual Assault
+Female,2011,3,190,Sexual Assault
+Female,2013,3,206,Sexual Assault
+Female,2012,3,212,Sexual Assault
+Male,2015,3,213,Sexual Assault
+Female,2011,3,220,Sexual Assault
+Female,2010,3,225,Sexual Assault
+Male,2018,3,230,Sexual Assault
+Male,2017,3,233,Sexual Assault
+Male,2016,3,234,Sexual Assault
+Female,2020,3,235.8,Sexual Assault
+Male,2019,3,236,Sexual Assault
+Female,2015,3,240,Sexual Assault
+Male,2017,3,263,Sexual Assault
+Male,2013,3,264,Sexual Assault
+Male,2014,4,220,Sexual Assault
+Male,2017,4,220,Sexual Assault
+Female,2011,4,228,Sexual Assault
+Male,2020,4,235,Sexual Assault
+Unisex,2013,4,240,Sexual Assault
+Male,2018,4,245,Sexual Assault
+Female,2016,4,263,Sexual Assault
+Male,2019,4,280,Sexual Assault
+Female,2013,4,285,Sexual Assault
+Female,2019,4,290,Sexual Assault
+Male,2010,5,185,Sexual Assault
+Female,2014,5,217,Sexual Assault
+Female,2019,5,230,Sexual Assault
+Male,2010,5,290,Sexual Assault
+Female,2017,6,210,Sexual Assault
+Male,2020,6,220,Sexual Assault
+Female,2017,7,175,Sexual Assault
+Female,2019,7,319,Sexual Assault
+Female,2011,7,320,Sexual Assault
+Female,2018,8,235,Sexual Assault
+Female,2015,8,250,Sexual Assault
+Male,2012,9,200,Sexual Assault
+Male,2014,9,205,Sexual Assault
+Female,2019,9,225,Sexual Assault
+Female,2015,9,315,Sexual Assault
+Male,2011,9,327,Sexual Assault
+Female,2016,9,337,Sexual Assault
+Female,2010,10,200,Sexual Assault
+Male,2016,10,200,Sexual Assault
+Male,2010,10,212,Sexual Assault
+Male,2016,10,250,Sexual Assault
+Male,2010,10,266,Sexual Assault
+Unisex,2019,11,185,Sexual Assault
+Male,2015,11,200,Sexual Assault
+Male,2010,11,210,Sexual Assault
+Male,2015,11,225,Sexual Assault
+Male,2015,11,245,Sexual Assault
+Female,2010,11,295,Sexual Assault
+Male,2015,11,360,Sexual Assault
+Male,2020,12,210,Sexual Assault
+Female,2020,12,234.3,Sexual Assault
+Female,2013,12,244,Sexual Assault
+Male,2020,12,273,Sexual Assault
+Male,2011,12,300,Sexual Assault
+Male,2016,12,344,Sexual Assault
+Female,2014,12,350,Sexual Assault
+Unisex,2013,12,355,Sexual Assault
+Male,2013,12,367,Sexual Assault
+Male,2016,13,200,Sexual Assault
+Female,2015,13,209,Sexual Assault
+Male,2010,13,220,Sexual Assault
+Female,2018,13,235,Sexual Assault
+Female,2015,13,240,Sexual Assault
+Male,2014,13,249,Sexual Assault
+Male,2017,13,295,Sexual Assault
+Female,2018,13,343,Sexual Assault
+Male,2020,13,371,Sexual Assault
+Male,2010,14,204,Sexual Assault
+Female,2020,14,236,Sexual Assault
+Female,2012,14,250,Sexual Assault
+Male,2017,14,255,Sexual Assault
+Female,2015,14,267,Sexual Assault
+Female,2014,14,270,Sexual Assault
+Male,2010,14,332,Sexual Assault
+Male,2015,14,335,Sexual Assault
+Male,2012,14,375,Sexual Assault
+Female,2014,15,220,Sexual Assault
+Male,2015,15,275,Sexual Assault
+Male,2013,15,290,Sexual Assault
+Female,2011,15,305,Sexual Assault
+Female,2017,15,386,Sexual Assault
+Male,2016,16,245,Sexual Assault
+Female,2011,16,260,Sexual Assault
+Male,2019,16,383.5,Sexual Assault
+Male,2014,16,385,Sexual Assault
+Male,2018,17,351,Sexual Assault
+Female,2019,18,214,Sexual Assault
+Female,2016,18,215,Sexual Assault
+Male,2012,18,275,Sexual Assault
+Male,2013,18,284,Sexual Assault
+Male,2019,18,290,Sexual Assault
+Female,2020,18,293,Sexual Assault
+Female,2019,18,303,Sexual Assault
+Male,2019,18,355,Sexual Assault
+Female,2010,18,364,Sexual Assault
+Male,2012,18,382,Sexual Assault
+Male,2013,19,243,Sexual Assault
+Male,2020,19,257,Sexual Assault
+Male,2019,19,275,Sexual Assault
+Male,2020,19,288,Sexual Assault
+Female,2017,19,338,Sexual Assault
+Unisex,2019,19,374,Sexual Assault
+Male,2019,20,206,Sexual Assault
+Male,2018,20,225,Sexual Assault
+Male,2018,20,310,Sexual Assault
+Male,2015,20,310,Sexual Assault
+Female,2012,20,340,Sexual Assault
+Female,2018,20,365,Sexual Assault
+Female,2019,21,250,Sexual Assault
+Female,2019,21,275,Sexual Assault
+Male,2015,21,305,Sexual Assault
+Female,2019,21,308,Sexual Assault
+Female,2019,22,221,Sexual Assault
+Female,2017,22,241,Sexual Assault
+Female,2015,22,262,Sexual Assault
+Unisex,2012,22,272,Sexual Assault
+Female,2019,22,385,Sexual Assault
+Female,2011,22,401,Sexual Assault
+Male,2015,23,225,Sexual Assault
+Female,2011,23,250,Sexual Assault
+Male,2011,24,320,Sexual Assault
+Male,2012,25,257,Sexual Assault
+Male,2011,26,269,Sexual Assault
+Male,2014,26,327,Sexual Assault
+Female,2020,27,286,Sexual Assault
+Male,2012,27,372,Sexual Assault
+Male,2011,27,420,Sexual Assault
+Male,2019,27,439,Sexual Assault
+Female,2017,28,308,Sexual Assault
+Male,2014,28,310,Sexual Assault
+Female,2020,29,300,Sexual Assault
+Male,2016,29,420,Sexual Assault
+Female,2016,30,265,Sexual Assault
+Female,2020,30,332,Sexual Assault
+Female,2016,30,355,Sexual Assault
+Female,2017,30,850,Sexual Assault
+Female,2013,31,307,Sexual Assault
+Male,2020,31,309,Sexual Assault
+Female,2014,31,325,Sexual Assault
+Unisex,2012,31,360,Sexual Assault
+Female,2013,32,275,Sexual Assault
+Male,2018,32,296,Sexual Assault
+Female,2013,32,360,Sexual Assault
+Female,2018,33,306,Sexual Assault
+Female,2016,33,340,Sexual Assault
+Female,2010,33,365,Sexual Assault
+Female,2010,33,416,Sexual Assault
+Male,2019,34,300,Sexual Assault
+Unisex,2015,34,375,Sexual Assault
+Female,2020,36,369,Sexual Assault
+Male,2012,36,414,Sexual Assault
+Male,2010,37,415,Sexual Assault
+Female,2011,38,377,Sexual Assault
+Female,2010,38,402,Sexual Assault
+Male,2012,39,292,Sexual Assault
+Male,2016,39,420,Sexual Assault
+Male,2012,40,420,Sexual Assault
+Female,2015,40,434,Sexual Assault
+Female,2011,41,300,Sexual Assault
+Female,2010,41,314,Sexual Assault
+Male,2014,42,304,Sexual Assault
+Female,2020,42,450,Sexual Assault
+Male,2018,44,330,Sexual Assault
+Male,2011,44,363,Sexual Assault
+Male,2014,44,435,Sexual Assault
+Male,2014,45,345,Sexual Assault
+Female,2013,45,381,Sexual Assault
+Male,2010,45,382,Sexual Assault
+Female,2015,45,424,Sexual Assault
+Female,2018,45,437,Sexual Assault
+Male,2019,45,441,Sexual Assault
+Female,2020,45,455,Sexual Assault
+Female,2012,45,960,Sexual Assault
+Male,2018,46,318,Sexual Assault
+Unisex,2010,46,329,Sexual Assault
+Female,2019,46,380,Sexual Assault
+Female,2016,46,415,Sexual Assault
+Male,2015,46,420,Sexual Assault
+Female,2018,47,371,Sexual Assault
+Unisex,2014,47,411,Sexual Assault
+Male,2015,47,440,Sexual Assault
+Male,2013,48,400,Sexual Assault
+Male,2019,50,393,Sexual Assault
+Unisex,2010,50,435,Sexual Assault
+Female,2017,50,435,Sexual Assault
+Female,2013,50,448,Sexual Assault
+Male,2012,51,393,Sexual Assault
+Male,2016,52,391,Sexual Assault
+Male,2019,53,375,Sexual Assault
+Unisex,2012,55,341,Sexual Assault
+Male,2018,55,350,Sexual Assault
+Male,2014,55,443,Sexual Assault
+Female,2012,57,391,Sexual Assault
+Female,2010,57,461,Sexual Assault
+Unisex,2011,59,413,Sexual Assault
+Female,2013,1,170,Weapons
+Female,2017,1,175,Weapons
+Male,2013,2,175,Weapons
+Female,2014,2,200,Weapons
+Female,2010,2,220,Weapons
+Female,2019,2,230,Weapons
+Female,2011,2,230,Weapons
+Male,2015,2,246,Weapons
+Male,2016,2,260,Weapons
+Male,2013,3,150,Weapons
+Female,2013,3,220,Weapons
+Male,2012,3,235,Weapons
+Male,2016,3,270,Weapons
+Female,2013,4,113.9,Weapons
+Male,2013,4,211,Weapons
+Male,2011,4,225,Weapons
+Male,2020,5,160,Weapons
+Male,2010,5,283,Weapons
+Female,2020,6,275,Weapons
+Female,2013,7,180,Weapons
+Female,2017,7,235,Weapons
+Male,2012,7,264,Weapons
+Female,2020,7,295,Weapons
+Female,2017,7,304,Weapons
+Female,2010,7,310,Weapons
+Male,2013,8,252,Weapons
+Female,2016,8,265,Weapons
+Male,2013,8,268,Weapons
+Female,2015,8,270,Weapons
+Female,2013,8,290,Weapons
+Female,2011,8,296,Weapons
+Male,2011,8,300,Weapons
+Unisex,2018,8,342,Weapons
+Female,2014,9,280,Weapons
+Female,2015,9,320,Weapons
+Male,2017,9,321,Weapons
+Male,2016,9,343,Weapons
+Male,2011,10,208,Weapons
+Male,2016,10,230,Weapons
+Female,2018,10,283,Weapons
+Male,2014,10,312,Weapons
+Male,2014,10,328,Weapons
+Male,2014,10,360,Weapons
+Female,2017,11,184,Weapons
+Female,2018,11,205,Weapons
+Male,2017,11,225,Weapons
+Female,2010,11,280,Weapons
+Male,2010,11,300,Weapons
+Male,2011,11,319,Weapons
+Male,2014,11,326,Weapons
+Female,2016,11,352,Weapons
+Male,2014,11,365,Weapons
+Unisex,2013,12,210,Weapons
+Female,2012,12,225,Weapons
+Female,2016,12,230,Weapons
+Female,2017,12,250,Weapons
+Male,2017,12,256,Weapons
+Male,2013,12,337,Weapons
+Female,2014,12,347,Weapons
+Female,2013,12,350,Weapons
+Unknown,2011,12,351,Weapons
+Male,2020,12,360,Weapons
+Male,2017,13,266,Weapons
+Female,2013,13,288,Weapons
+Female,2017,13,320,Weapons
+Male,2017,13,330,Weapons
+Female,2012,13,342,Weapons
+Male,2011,13,356,Weapons
+Male,2010,13,370,Weapons
+Male,2020,14,260,Weapons
+Unisex,2012,14,340,Weapons
+Male,2013,14,390,Weapons
+Female,2014,15,257,Weapons
+Male,2010,15,264,Weapons
+Female,2017,15,310,Weapons
+Male,2015,15,339.35,Weapons
+Female,2013,15,350,Weapons
+Male,2017,15,356,Weapons
+Male,2016,15,360,Weapons
+Male,2012,15,370,Weapons
+Unisex,2018,17,245,Weapons
+Female,2016,17,300,Weapons
+Female,2011,17,302,Weapons
+Male,2013,18,270,Weapons
+Male,2011,19,200,Weapons
+Male,2014,19,250,Weapons
+Male,2015,19,350,Weapons
+Female,2020,19,370,Weapons
+Male,2018,19,390,Weapons
+Female,2011,20,259,Weapons
+Male,2020,20,294,Weapons
+Male,2016,20,331,Weapons
+Female,2011,20,393,Weapons
+Male,2015,21,319,Weapons
+Male,2014,21,328,Weapons
+Female,2017,21,337,Weapons
+Male,2015,22,220,Weapons
+Female,2012,22,292,Weapons
+Male,2017,22,307,Weapons
+Female,2018,22,315,Weapons
+Unknown,2016,22,340,Weapons
+Female,2019,23,225,Weapons
+Male,2011,23,265,Weapons
+Female,2020,23,289,Weapons
+Male,2010,23,302,Weapons
+Male,2016,23,311,Weapons
+Unisex,2017,23,325,Weapons
+Female,2012,23,330,Weapons
+Male,2014,23,367,Weapons
+Male,2011,23,400,Weapons
+Male,2016,24,280,Weapons
+Female,2017,24,288,Weapons
+Female,2010,24,310,Weapons
+Male,2019,24,320,Weapons
+Female,2019,24,336,Weapons
+Female,2018,24,414,Weapons
+Male,2012,25,250,Weapons
+Female,2018,25,300,Weapons
+Male,2011,25,347,Weapons
+Male,2014,25,380,Weapons
+Female,2011,26,328,Weapons
+Male,2015,26,331,Weapons
+Male,2011,26,356,Weapons
+Female,2010,26,421.15,Weapons
+Male,2011,26,425,Weapons
+Unknown,2015,27,410,Weapons
+Male,2011,28,265,Weapons
+Male,2020,28,325,Weapons
+Male,2019,28,335,Weapons
+Male,2015,28,360,Weapons
+Female,2016,29,420,Weapons
+Male,2016,30,275,Weapons
+Male,2019,30,282,Weapons
+Male,2018,30,325,Weapons
+Male,2012,30,326,Weapons
+Male,2010,30,379,Weapons
+Male,2015,30,390,Weapons
+Female,2019,31,342,Weapons
+Male,2019,31,360,Weapons
+Male,2011,31,370,Weapons
+Male,2017,31,440,Weapons
+Male,2018,32,315,Weapons
+Male,2013,32,365,Weapons
+Male,2015,32,373,Weapons
+Male,2016,32,379,Weapons
+Female,2015,32,380,Weapons
+Male,2019,33,291,Weapons
+Female,2020,33,317,Weapons
+Male,2016,34,280,Weapons
+Female,2018,34,288,Weapons
+Male,2015,34,408,Weapons
+Female,2010,35,280,Weapons
+Female,2019,35,430,Weapons
+Female,2011,36,274,Weapons
+Male,2012,36,295,Weapons
+Female,2016,36,352,Weapons
+Female,2014,36,383.5,Weapons
+Unisex,2012,37,322,Weapons
+Male,2012,37,350,Weapons
+Male,2020,37,410,Weapons
+Female,2012,37,440,Weapons
+Male,2020,39,310,Weapons
+Male,2014,39,354,Weapons
+Female,2020,41,305,Weapons
+Male,2013,41,448,Weapons
+Female,2018,43,359,Weapons
+Male,2013,43,412,Weapons
+Male,2015,44,313,Weapons
+Male,2019,45,310,Weapons
+Female,2010,45,315,Weapons
+Female,2017,45,414,Weapons
+Male,2019,45,780,Weapons
+Male,2018,46,352,Weapons
+Female,2010,46,393,Weapons
+Female,2010,47,388,Weapons
+Female,2015,49,325,Weapons
+Male,2016,50,399,Weapons
+Male,2013,50,445,Weapons
+Male,2012,50,455,Weapons
+Male,2020,51,339,Weapons
+Male,2015,52,331,Weapons
+Male,2017,52,343,Weapons
+Female,2017,52,355,Weapons
+Unisex,2012,52,384,Weapons
+Male,2011,53,381,Weapons
+Female,2017,54,366,Weapons
+Female,2012,56,387,Weapons
+Female,2014,57,441,Weapons
+Male,2016,60,385,Weapons
+Female,2016,60,405,Weapons
+Male,2018,1,180,Murder
+Male,2020,2,199,Murder
+Male,2014,2,200,Murder
+Unisex,2012,2,215,Murder
+Male,2012,3,224,Murder
+Female,2011,3,225,Murder
+Female,2017,3,226,Murder
+Male,2019,3,240,Murder
+Female,2019,4,238,Murder
+Male,2014,4,259,Murder
+Male,2014,4,261,Murder
+Female,2010,4,263,Murder
+Male,2011,4,265,Murder
+Female,2016,4,270,Murder
+Male,2011,4,275,Murder
+Female,2015,5,201,Murder
+Female,2020,5,210,Murder
+Female,2010,5,224,Murder
+Male,2012,5,239,Murder
+Male,2010,5,253,Murder
+Female,2019,5,268,Murder
+Female,2017,6,250,Murder
+Male,2018,6,261,Murder
+Male,2010,6,262,Murder
+Male,2013,6,281,Murder
+Female,2016,6,284,Murder
+Male,2010,6,286,Murder
+Female,2019,6,286,Murder
+Female,2019,6,295,Murder
+Male,2016,6,301,Murder
+Female,2012,6,303,Murder
+Female,2013,7,238,Murder
+Male,2011,7,260,Murder
+Female,2011,7,264,Murder
+Male,2018,7,270,Murder
+Unisex,2013,7,281,Murder
+Male,2016,7,286,Murder
+Male,2014,7,287,Murder
+Male,2018,7,294,Murder
+Male,2019,7,301,Murder
+Female,2019,7,303,Murder
+Female,2019,7,304,Murder
+Male,2012,7,304,Murder
+Male,2011,7,305,Murder
+Male,2012,7,305,Murder
+Unknown,2012,8,226,Murder
+Male,2014,8,239,Murder
+Male,2011,8,258,Murder
+Female,2014,8,269,Murder
+Female,2020,8,275,Murder
+Female,2018,8,275,Murder
+Male,2010,8,282,Murder
+Female,2019,8,308,Murder
+Female,2014,8,313,Murder
+Male,2019,8,316,Murder
+Female,2020,8,318,Murder
+Female,2014,8,319,Murder
+Male,2011,8,320,Murder
+Female,2019,9,303,Murder
+Male,2014,9,306,Murder
+Female,2012,9,307,Murder
+Unisex,2010,9,315,Murder
+Female,2020,9,317,Murder
+Female,2015,9,318,Murder
+Male,2020,9,330,Murder
+Female,2020,9,331,Murder
+Female,2011,9,334,Murder
+Male,2010,10,282,Murder
+Male,2010,10,284,Murder
+Male,2016,10,298,Murder
+Male,2011,10,304,Murder
+Male,2016,10,309,Murder
+Male,2019,10,331,Murder
+Male,2017,10,337,Murder
+Female,2017,10,338,Murder
+Female,2010,10,339,Murder
+Male,2010,10,340,Murder
+Female,2010,11,296,Murder
+Unisex,2020,11,310,Murder
+Male,2016,11,317,Murder
+Female,2018,11,320,Murder
+Female,2018,11,323,Murder
+Unknown,2011,11,336,Murder
+Male,2010,11,336,Murder
+Male,2019,11,336,Murder
+Female,2015,11,338,Murder
+Female,2011,11,341,Murder
+Male,2019,11,350,Murder
+Male,2015,11,354,Murder
+Male,2016,12,281,Murder
+Female,2013,12,283,Murder
+Male,2013,12,283,Murder
+Male,2015,12,289,Murder
+Male,2014,12,301,Murder
+Unisex,2019,12,308,Murder
+Female,2013,12,316,Murder
+Male,2020,12,317,Murder
+Male,2013,12,319,Murder
+Female,2018,12,321,Murder
+Female,2016,12,325,Murder
+Male,2014,12,335,Murder
+Female,2018,12,338,Murder
+Female,2014,12,339,Murder
+Male,2019,12,350,Murder
+Female,2018,12,350,Murder
+Male,2020,12,350,Murder
+Male,2015,12,351,Murder
+Male,2013,12,353,Murder
+Male,2014,12,355,Murder
+Female,2010,12,361,Murder
+Female,2015,13,280,Murder
+Male,2015,13,280,Murder
+Male,2018,13,285,Murder
+Female,2014,13,287,Murder
+Female,2015,13,299,Murder
+Female,2010,13,300,Murder
+Male,2010,13,317,Murder
+Male,2011,13,320,Murder
+Female,2016,13,320,Murder
+Male,2018,13,333,Murder
+Female,2015,13,337,Murder
+Male,2013,13,350,Murder
+Female,2013,13,362,Murder
+Male,2010,13,362,Murder
+Female,2010,13,365,Murder
+Male,2018,13,373,Murder
+Female,2010,14,282,Murder
+Male,2013,14,290,Murder
+Unknown,2010,14,302,Murder
+Male,2017,14,318,Murder
+Unisex,2018,14,318,Murder
+Male,2014,14,318,Murder
+Female,2015,14,320,Murder
+Unisex,2018,14,333,Murder
+Female,2020,14,334,Murder
+Male,2020,14,336,Murder
+Female,2020,14,337,Murder
+Female,2020,14,337,Murder
+Male,2020,14,338,Murder
+Male,2019,14,350,Murder
+Male,2012,14,350,Murder
+Female,2018,14,362,Murder
+Female,2013,14,362,Murder
+Male,2019,14,368,Murder
+Female,2014,14,370,Murder
+Male,2017,14,371,Murder
+Female,2010,14,371,Murder
+Female,2018,14,375,Murder
+Female,2010,15,297,Murder
+Male,2014,15,302,Murder
+Male,2010,15,302,Murder
+Male,2014,15,309,Murder
+Unisex,2019,15,316,Murder
+Female,2017,15,317,Murder
+Male,2020,15,318,Murder
+Female,2016,15,319,Murder
+Male,2015,15,321,Murder
+Female,2019,15,340,Murder
+Female,2018,15,350,Murder
+Male,2014,15,352,Murder
+Female,2013,15,362,Murder
+Female,2013,15,367,Murder
+Male,2012,15,379,Murder
+Male,2020,15,383,Murder
+Female,2012,15,385,Murder
+Male,2012,15,386,Murder
+Female,2017,15,388,Murder
+Female,2019,16,319,Murder
+Female,2020,16,320,Murder
+Unisex,2011,16,321,Murder
+Male,2013,16,336,Murder
+Female,2010,16,336,Murder
+Male,2013,16,338,Murder
+Female,2020,16,347,Murder
+Female,2016,16,350,Murder
+Unisex,2016,16,350,Murder
+Female,2010,16,351,Murder
+Male,2018,16,352,Murder
+Female,2010,16,355,Murder
+Male,2018,16,361,Murder
+Female,2011,16,372,Murder
+Male,2019,16,379,Murder
+Female,2018,16,384,Murder
+Male,2012,16,385,Murder
+Male,2010,16,394,Murder
+Male,2019,17,314,Murder
+Male,2019,17,315,Murder
+Female,2016,17,320,Murder
+Female,2018,17,322,Murder
+Female,2014,17,348,Murder
+Male,2018,17,356,Murder
+Female,2015,17,370,Murder
+Male,2017,17,372,Murder
+Male,2012,17,380,Murder
+Female,2015,17,387,Murder
+Female,2016,17,388,Murder
+Female,2017,18,320,Murder
+Female,2011,18,321,Murder
+Male,2015,18,333,Murder
+Female,2015,18,335,Murder
+Female,2014,18,337,Murder
+Male,2016,18,337,Murder
+Male,2019,18,338,Murder
+Male,2019,18,350,Murder
+Female,2012,18,351,Murder
+Male,2020,18,354,Murder
+Unknown,2017,18,354,Murder
+Female,2010,18,361,Murder
+Male,2018,18,363,Murder
+Male,2020,18,366,Murder
+Male,2020,18,367,Murder
+Unisex,2012,18,368,Murder
+Unknown,2018,18,378,Murder
+Male,2019,18,383,Murder
+Male,2014,18,387,Murder
+Female,2014,18,395,Murder
+Female,2020,18,413,Murder
+Female,2011,19,337,Murder
+Female,2017,19,350,Murder
+Male,2017,19,352,Murder
+Female,2019,19,356,Murder
+Female,2012,19,387,Murder
+Male,2018,19,396,Murder
+Male,2010,19,396,Murder
+Female,2014,19,405,Murder
+Female,2012,19,408,Murder
+Female,2016,20,348,Murder
+Female,2016,20,350,Murder
+Male,2020,20,350,Murder
+Male,2014,20,350,Murder
+Female,2012,20,353,Murder
+Female,2014,20,364,Murder
+Male,2012,20,365,Murder
+Female,2012,20,366,Murder
+Male,2018,20,367,Murder
+Male,2011,20,370,Murder
+Female,2019,20,383,Murder
+Female,2016,20,384,Murder
+Female,2014,20,387,Murder
+Female,2014,20,396,Murder
+Male,2013,20,410,Murder
+Male,2014,20,410,Murder
+Female,2019,20,410,Murder
+Female,2013,21,338,Murder
+Male,2011,21,348,Murder
+Female,2017,21,362,Murder
+Female,2016,21,367,Murder
+Male,2015,21,368,Murder
+Female,2019,21,378,Murder
+Female,2016,21,385,Murder
+Male,2017,21,408,Murder
+Female,2017,21,409,Murder
+Male,2010,21,428,Murder
+Male,2017,22,363,Murder
+Unknown,2012,22,363,Murder
+Female,2015,22,366,Murder
+Unisex,2015,22,369,Murder
+Female,2018,22,372,Murder
+Male,2013,22,384,Murder
+Female,2017,22,385,Murder
+Male,2015,22,386,Murder
+Male,2011,22,387,Murder
+Male,2013,22,395,Murder
+Female,2012,22,408,Murder
+Male,2020,22,410,Murder
+Male,2020,22,413,Murder
+Male,2013,22,415,Murder
+Male,2011,22,423,Murder
+Male,2016,22,431,Murder
+Female,2018,23,342,Murder
+Male,2013,23,350,Murder
+Male,2014,23,350,Murder
+Male,2012,23,353,Murder
+Female,2017,23,356,Murder
+Female,2015,23,363,Murder
+Male,2013,23,368,Murder
+Male,2018,23,371,Murder
+Female,2017,23,382,Murder
+Female,2011,23,383,Murder
+Female,2011,23,386,Murder
+Male,2014,23,408,Murder
+Male,2014,23,409,Murder
+Male,2010,23,431,Murder
+Male,2018,24,355,Murder
+Female,2015,24,356,Murder
+Female,2012,24,380,Murder
+Male,2014,24,407,Murder
+Male,2017,24,409,Murder
+Male,2019,24,410,Murder
+Male,2017,24,417,Murder
+Male,2019,24,423,Murder
+Male,2010,24,431,Murder
+Male,2019,24,439,Murder
+Male,2015,25,366,Murder
+Female,2016,25,371,Murder
+Male,2014,25,374,Murder
+Female,2012,25,379,Murder
+Male,2016,25,393,Murder
+Female,2020,25,395,Murder
+Male,2016,25,397,Murder
+Female,2020,25,405,Murder
+Male,2011,25,412,Murder
+Male,2017,25,423,Murder
+Unisex,2018,25,432,Murder
+Unisex,2012,26,361,Murder
+Male,2016,26,362,Murder
+Male,2016,26,369,Murder
+Female,2014,26,385,Murder
+Male,2015,26,386,Murder
+Male,2013,26,394,Murder
+Unisex,2018,26,394,Murder
+Female,2010,26,397,Murder
+Female,2016,26,410,Murder
+Male,2015,26,411,Murder
+Female,2013,26,415,Murder
+Male,2012,26,428,Murder
+Male,2010,26,429,Murder
+Unisex,2010,26,430,Murder
+Female,2011,26,432,Murder
+Male,2017,26,439,Murder
+Female,2015,26,440,Murder
+Female,2012,27,372,Murder
+Male,2019,27,379,Murder
+Male,2011,27,384,Murder
+Unisex,2020,27,385,Murder
+Female,2014,27,393,Murder
+Male,2013,27,394,Murder
+Female,2017,27,407,Murder
+Female,2016,27,408,Murder
+Male,2017,27,410,Murder
+Male,2018,27,411,Murder
+Female,2010,27,417,Murder
+Female,2015,27,427,Murder
+Male,2018,27,431,Murder
+Female,2016,27,444,Murder
+Female,2014,27,445,Murder
+Male,2015,27,457,Murder
+Female,2014,27,459,Murder
+Female,2018,28,369,Murder
+Male,2016,28,370,Murder
+Male,2019,28,380,Murder
+Female,2018,28,381,Murder
+Male,2012,28,400,Murder
+Female,2013,28,408,Murder
+Male,2019,28,409,Murder
+Male,2015,28,415,Murder
+Male,2016,28,416,Murder
+Male,2014,28,417,Murder
+Male,2018,28,432,Murder
+Female,2015,28,441,Murder
+Male,2016,28,443,Murder
+Female,2011,28,445,Murder
+Male,2012,28,459,Murder
+Female,2019,29,382,Murder
+Female,2011,29,383,Murder
+Female,2020,29,388,Murder
+Male,2011,29,405,Murder
+Female,2020,29,412,Murder
+Male,2019,29,423,Murder
+Male,2017,29,460,Murder
+Female,2013,30,380,Murder
+Male,2017,30,380,Murder
+Female,2020,30,381,Murder
+Female,2017,30,388,Murder
+Male,2019,30,395,Murder
+Male,2013,30,397,Murder
+Male,2012,30,461,Murder
+Female,2010,31,393,Murder
+Female,2018,31,409,Murder
+Male,2014,31,410,Murder
+Unisex,2013,31,447,Murder
+Female,2017,31,474,Murder
+Female,2018,31,475,Murder
+Female,2020,32,397,Murder
+Male,2018,32,431,Murder
+Male,2015,32,447,Murder
+Female,2011,32,462,Murder
+Female,2010,32,475,Murder
+Male,2017,32,510,Murder
+Female,2014,33,396,Murder
+Female,2010,33,409,Murder
+Female,2011,33,410,Murder
+Female,2013,33,430,Murder
+Female,2017,33,570,Murder
+Female,2019,34,400,Murder
+Female,2015,34,405,Murder
+Male,2012,34,408,Murder
+Female,2020,34,415,Murder
+Male,2013,34,435,Murder
+Female,2015,34,456,Murder
+Male,2012,34,457,Murder
+Male,2018,34,458,Murder
+Male,2016,34,463,Murder
+Female,2018,34,463,Murder
+Male,2016,34,464,Murder
+Female,2019,35,409,Murder
+Male,2011,35,411,Murder
+Female,2012,35,416,Murder
+Female,2019,35,460,Murder
+Female,2012,35,461,Murder
+Male,2012,36,406,Murder
+Male,2017,36,410,Murder
+Unisex,2017,36,491,Murder
+Female,2018,36,532,Murder
+Male,2018,37,410,Murder
+Female,2019,37,433,Murder
+Female,2018,37,434,Murder
+Male,2010,37,440,Murder
+Male,2019,37,490,Murder
+Male,2010,37,510,Murder
+Female,2012,37,518,Murder
+Female,2011,38,415,Murder
+Female,2017,38,423,Murder
+Female,2013,38,435,Murder
+Male,2016,38,445,Murder
+Male,2017,38,460,Murder
+Female,2016,38,492,Murder
+Female,2020,38,510,Murder
+Male,2017,39,416,Murder
+Female,2019,39,434,Murder
+Male,2020,39,456,Murder
+Male,2020,39,462,Murder
+Female,2011,39,543,Murder
+Female,2020,40,428,Murder
+Female,2015,40,430,Murder
+Female,2019,40,430,Murder
+Male,2020,40,465,Murder
+Male,2017,40,474,Murder
+Female,2013,40,560,Murder
+Female,2016,41,430,Murder
+Male,2012,41,440,Murder
+Female,2014,41,458,Murder
+Male,2017,41,467,Murder
+Female,2017,41,479,Murder
+Female,2015,41,520,Murder
+Unisex,2019,42,428,Murder
+Male,2014,42,445,Murder
+Female,2018,42,466,Murder
+Female,2018,42,475,Murder
+Female,2016,42,478,Murder
+Male,2019,42,530,Murder
+Male,2016,42,540,Murder
+Male,2015,43,433,Murder
+Female,2013,43,438,Murder
+Female,2020,43,449,Murder
+Male,2012,43,480,Murder
+Male,2017,44,442,Murder
+Female,2018,44,445,Murder
+Male,2013,44,458,Murder
+Female,2011,44,461,Murder
+Female,2012,45,460,Murder
+Female,2016,45,530,Murder
+Male,2016,46,457,Murder
+Female,2012,46,474,Murder
+Male,2016,46,490,Murder
+Male,2010,46,530,Murder
+Female,2016,47,493,Murder
+Female,2018,47,510,Murder
+Female,2017,47,530,Murder
+Male,2018,47,553,Murder
+Female,2015,48,459,Murder
+Female,2020,48,493,Murder
+Male,2015,49,463,Murder
+Female,2017,49,490,Murder
+Female,2015,49,492,Murder
+Female,2012,49,521,Murder
+Female,2017,50,458,Murder
+Female,2019,50,462,Murder
+Female,2010,50,510,Murder
+Male,2012,50,550,Murder
+Female,2015,50,560,Murder
+Female,2016,51,480,Murder
+Female,2014,51,520,Murder
+Male,2010,51,570,Murder
+Female,2020,52,480,Murder
+Female,2016,52,512,Murder
+Male,2014,52,530,Murder
+Male,2017,52,535,Murder
+Female,2017,53,474,Murder
+Female,2015,53,520,Murder
+Female,2015,54,476,Murder
+Male,2010,54,490,Murder
+Female,2011,54,540,Murder
+Female,2012,54,550,Murder
+Female,2019,55,477,Murder
+Female,2014,55,525,Murder
+Female,2019,55,560,Murder
+Male,2015,55,565,Murder
+Male,2011,56,510,Murder
+Female,2012,56,530,Murder
+Female,2017,56,542,Murder
+Female,2015,57,519,Murder
+Female,2010,57,560,Murder
+Male,2012,58,495,Murder
+Unisex,2020,58,544,Murder
+Male,2011,58,560,Murder
+Female,2015,58,660,Murder
+Male,2018,58,1050,Murder
+Female,2015,59,492,Murder
+Unisex,2013,59,510,Murder
+Male,2010,59,520,Murder
+Unknown,2010,59,545,Murder
+Female,2017,59,570,Murder
+Male,2020,60,570,Murder
+Female,2011,60,570,Murder
+Male,2016,1,120,Narcotics
+Female,2012,2,238,Narcotics
+Female,2010,3,225,Narcotics
+Male,2015,3,239,Narcotics
+Unisex,2018,3,254,Narcotics
+Female,2016,3,266,Narcotics
+Female,2013,4,240,Narcotics
+Male,2019,4,265,Narcotics
+Female,2013,5,280,Narcotics
+Male,2017,6,215,Narcotics
+Female,2014,6,316,Narcotics
+Female,2020,7,280,Narcotics
+Male,2013,7,299,Narcotics
+Male,2010,8,286,Narcotics
+Female,2014,8,318,Narcotics
+Male,2017,8,332,Narcotics
+Female,2019,9,236,Narcotics
+Male,2010,9,251,Narcotics
+Unknown,2014,9,265,Narcotics
+Female,2019,9,280,Narcotics
+Male,2010,9,280,Narcotics
+Male,2011,9,311,Narcotics
+Male,2018,9,317,Narcotics
+Male,2020,9,332,Narcotics
+Male,2014,9,345,Narcotics
+Female,2010,10,250,Narcotics
+Female,2016,10,312,Narcotics
+Female,2016,10,330,Narcotics
+Male,2017,10,331,Narcotics
+Female,2017,10,341,Narcotics
+Male,2011,10,355,Narcotics
+Male,2013,11,299,Narcotics
+Female,2017,11,340,Narcotics
+Female,2017,11,346,Narcotics
+Male,2010,11,355,Narcotics
+Male,2019,11,356,Narcotics
+Unisex,2016,11,364,Narcotics
+Female,2017,12,228,Narcotics
+Female,2017,12,289,Narcotics
+Female,2018,12,314,Narcotics
+Female,2015,12,331,Narcotics
+Male,2014,12,347,Narcotics
+Unisex,2016,12,367,Narcotics
+Female,2010,13,286,Narcotics
+Male,2015,13,324,Narcotics
+Female,2014,13,329,Narcotics
+Male,2014,13,332,Narcotics
+Male,2014,13,358,Narcotics
+Female,2010,13,380,Narcotics
+Female,2010,14,251,Narcotics
+Female,2012,14,339,Narcotics
+Male,2013,14,355,Narcotics
+Male,2014,14,382,Narcotics
+Male,2012,15,256,Narcotics
+Male,2010,15,282,Narcotics
+Female,2012,15,283,Narcotics
+Male,2018,15,285,Narcotics
+Female,2019,15,300,Narcotics
+Unisex,2011,15,319,Narcotics
+Male,2012,15,355,Narcotics
+Female,2015,15,358,Narcotics
+Male,2016,15,365,Narcotics
+Male,2014,15,387,Narcotics
+Female,2011,16,267,Narcotics
+Female,2012,16,295,Narcotics
+Male,2014,16,311,Narcotics
+Male,2019,16,369,Narcotics
+Female,2019,16,378,Narcotics
+Male,2015,16,379,Narcotics
+Female,2016,18,237,Narcotics
+Male,2020,18,319,Narcotics
+Female,2020,18,349,Narcotics
+Female,2010,18,405,Narcotics
+Female,2016,19,230,Narcotics
+Female,2012,19,333,Narcotics
+Female,2017,19,344,Narcotics
+Female,2010,19,356,Narcotics
+Male,2015,20,287,Narcotics
+Unisex,2014,20,393,Narcotics
+Male,2012,21,280,Narcotics
+Male,2019,21,311,Narcotics
+Male,2013,21,321,Narcotics
+Male,2015,21,362,Narcotics
+Unisex,2014,21,383,Narcotics
+Male,2020,21,401,Narcotics
+Male,2014,21,409,Narcotics
+Female,2014,22,280,Narcotics
+Female,2018,22,300,Narcotics
+Female,2013,22,315,Narcotics
+Female,2015,22,335,Narcotics
+Female,2014,22,345,Narcotics
+Female,2020,22,347,Narcotics
+Female,2014,22,386,Narcotics
+Male,2016,23,274,Narcotics
+Female,2011,23,280,Narcotics
+Male,2018,23,348,Narcotics
+Male,2010,23,355,Narcotics
+Male,2016,23,361,Narcotics
+Male,2015,23,385,Narcotics
+Female,2011,23,419,Narcotics
+Female,2015,23,425,Narcotics
+Female,2016,24,298,Narcotics
+Male,2016,24,311,Narcotics
+Female,2013,25,345,Narcotics
+Male,2014,25,346,Narcotics
+Female,2013,26,310,Narcotics
+Male,2016,26,311,Narcotics
+Male,2018,26,330,Narcotics
+Female,2020,26,338,Narcotics
+Male,2012,26,359,Narcotics
+Male,2012,26,366,Narcotics
+Female,2019,26,367,Narcotics
+Male,2012,27,300,Narcotics
+Male,2013,27,334,Narcotics
+Female,2017,27,350,Narcotics
+Female,2012,27,356,Narcotics
+Female,2014,28,332,Narcotics
+Female,2013,29,313,Narcotics
+Male,2012,29,351,Narcotics
+Female,2012,30,312,Narcotics
+Male,2010,31,313,Narcotics
+Male,2010,31,371,Narcotics
+Male,2012,31,371,Narcotics
+Female,2014,31,372,Narcotics
+Male,2011,32,309,Narcotics
+Male,2016,32,325,Narcotics
+Male,2016,32,342,Narcotics
+Male,2013,32,365,Narcotics
+Female,2016,32,368,Narcotics
+Male,2013,32,394,Narcotics
+Female,2018,33,314,Narcotics
+Female,2013,33,349,Narcotics
+Female,2013,33,364,Narcotics
+Female,2010,33,381,Narcotics
+Female,2012,33,434,Narcotics
+Female,2018,33,440,Narcotics
+Male,2017,34,333,Narcotics
+Male,2015,34,363,Narcotics
+Male,2018,34,404,Narcotics
+Male,2014,35,298,Narcotics
+Female,2017,35,460,Narcotics
+Female,2012,36,360,Narcotics
+Female,2014,36,372,Narcotics
+Male,2010,36,396,Narcotics
+Female,2017,36,405,Narcotics
+Male,2013,36,422,Narcotics
+Male,2011,36,445,Narcotics
+Female,2019,37,380,Narcotics
+Male,2014,37,414,Narcotics
+Male,2010,38,393,Narcotics
+Male,2016,38,395,Narcotics
+Male,2016,39,315,Narcotics
+Female,2012,39,355,Narcotics
+Female,2012,39,370,Narcotics
+Female,2016,40,335,Narcotics
+Male,2011,40,403,Narcotics
+Female,2014,40,415,Narcotics
+Male,2019,41,470,Narcotics
+Female,2017,42,339,Narcotics
+Male,2013,42,348,Narcotics
+Female,2016,43,338,Narcotics
+Female,2020,43,373,Narcotics
+Male,2013,44,340,Narcotics
+Female,2012,44,416,Narcotics
+Male,2019,45,316,Narcotics
+Unknown,2011,45,412,Narcotics
+Female,2012,47,392,Narcotics
+Female,2017,47,392,Narcotics
+Female,2016,48,372,Narcotics
+Male,2020,48,372,Narcotics
+Female,2013,48,381,Narcotics
+Male,2019,49,450,Narcotics
+Male,2012,50,342,Narcotics
+Male,2010,50,384,Narcotics
+Female,2018,50,440,Narcotics
+Female,2010,51,359,Narcotics
+Female,2018,52,350,Narcotics
+Female,2019,52,351,Narcotics
+Female,2011,52,370,Narcotics
+Female,2011,52,394,Narcotics
+Female,2018,53,343,Narcotics
+Female,2014,53,357,Narcotics
+Male,2012,54,368,Narcotics
+Male,2016,54,411,Narcotics
+Unisex,2016,55,455,Narcotics
+Male,2013,56,384,Narcotics
+Female,2019,56,388,Narcotics
+Female,2014,56,410,Narcotics
+Female,2010,59,375,Narcotics
+Male,2019,60,426,Narcotics
+Female,2017,2,220,Other
+Unisex,2015,3,230,Other
+Female,2020,5,230,Other
+Male,2020,5,230,Other
+Unknown,2014,5,231,Other
+Female,2014,5,240,Other
+Unknown,2019,5,253,Other
+Male,2020,5,254,Other
+Unisex,2019,5,265,Other
+Male,2020,6,243,Other
+Female,2016,6,270,Other
+Male,2010,6,280,Other
+Female,2011,7,215,Other
+Male,2011,7,232,Other
+Male,2018,7,241,Other
+Male,2014,7,242,Other
+Female,2011,7,255,Other
+Female,2013,7,265,Other
+Unknown,2012,7,275,Other
+Female,2014,7,281,Other
+Female,2016,8,225,Other
+Male,2010,8,259,Other
+Male,2018,8,275,Other
+Male,2015,8,280,Other
+Female,2011,8,281,Other
+Male,2016,8,282,Other
+Female,2014,8,290,Other
+Male,2012,9,220,Other
+Male,2016,9,231,Other
+Female,2019,9,255,Other
+Male,2014,9,260,Other
+Female,2016,9,310,Other
+Female,2017,10,245,Other
+Male,2012,10,245,Other
+Female,2015,10,245,Other
+Male,2011,10,245,Other
+Female,2014,10,253,Other
+Male,2014,10,265,Other
+Male,2010,10,265,Other
+Male,2014,10,270,Other
+Female,2014,10,270,Other
+Male,2018,10,270,Other
+Female,2015,10,270,Other
+Female,2015,10,283,Other
+Male,2012,10,284,Other
+Female,2010,10,285,Other
+Male,2014,10,287,Other
+Male,2018,10,288,Other
+Female,2016,10,292,Other
+Female,2018,10,296,Other
+Female,2012,10,297,Other
+Female,2010,10,298,Other
+Female,2016,10,299,Other
+Male,2017,10,300,Other
+Female,2012,10,304,Other
+Female,2017,10,304,Other
+Male,2012,10,305,Other
+Male,2010,10,305,Other
+Female,2011,10,305,Other
+Male,2012,10,306,Other
+Male,2015,10,306.29,Other
+Male,2013,10,309,Other
+Female,2019,10,310,Other
+Female,2018,10,311,Other
+Female,2020,10,311,Other
+Female,2017,10,312,Other
+Female,2011,10,314,Other
+Male,2019,10,315,Other
+Female,2018,11,284.32,Other
+Female,2013,11,315,Other
+Male,2019,11,320,Other
+Male,2016,12,270,Other
+Male,2013,12,295,Other
+Female,2012,12,310,Other
+Female,2011,12,312,Other
+Male,2017,12,315,Other
+Female,2011,12,315,Other
+Female,2014,12,316,Other
+Male,2020,12,317,Other
+Male,2014,12,320,Other
+Male,2016,12,320,Other
+Female,2017,12,324,Other
+Female,2014,12,328,Other
+Male,2013,12,328,Other
+Male,2013,12,329,Other
+Female,2012,13,270,Other
+Male,2016,13,280,Other
+Female,2013,13,289,Other
+Male,2019,13,305,Other
+Male,2015,13,318,Other
+Female,2014,13,320,Other
+Male,2020,13,323.9,Other
+Male,2013,13,329,Other
+Male,2015,13,329,Other
+Female,2011,13,330,Other
+Male,2011,13,331,Other
+Male,2019,14,295,Other
+Female,2015,14,305,Other
+Male,2015,14,305,Other
+Female,2016,14,319,Other
+Male,2012,14,322,Other
+Male,2018,14,325,Other
+Male,2016,14,329,Other
+Female,2018,14,332,Other
+Male,2019,14,335,Other
+Female,2017,14,339,Other
+Male,2012,14,340,Other
+Female,2019,15,265,Other
+Female,2015,15,295,Other
+Male,2013,15,305,Other
+Unknown,2015,15,313,Other
+Male,2019,15,320,Other
+Female,2014,15,327,Other
+Female,2014,15,330,Other
+Male,2020,15,336,Other
+Female,2010,15,341,Other
+Male,2013,15,342,Other
+Female,2013,15,348,Other
+Female,2012,15,350,Other
+Female,2015,16,295,Other
+Female,2015,16,320,Other
+Unknown,2011,16,334,Other
+Male,2013,16,335,Other
+Male,2016,16,339,Other
+Unisex,2015,16,344,Other
+Female,2010,16,345,Other
+Female,2019,16,347,Other
+Female,2014,16,349,Other
+Female,2019,16,351,Other
+Male,2019,17,295,Other
+Female,2010,17,305,Other
+Female,2018,17,320,Other
+Female,2015,17,332,Other
+Male,2019,17,335,Other
+Female,2016,17,336,Other
+Female,2011,17,338,Other
+Male,2012,17,340,Other
+Male,2010,17,346,Other
+Male,2014,17,348,Other
+Female,2018,17,350,Other
+Female,2020,17,351,Other
+Female,2018,17,352,Other
+Female,2018,17,365,Other
+Female,2017,18,295,Other
+Female,2020,18,295,Other
+Unisex,2017,18,321,Other
+Male,2011,18,336,Other
+Male,2018,18,341,Other
+Unknown,2020,18,345,Other
+Female,2014,18,350,Other
+Male,2020,18,351,Other
+Female,2017,18,353,Other
+Female,2011,18,360,Other
+Female,2013,18,362,Other
+Female,2014,18,370,Other
+Female,2018,19,305,Other
+Female,2015,19,326,Other
+Female,2020,19,327,Other
+Female,2020,19,337,Other
+Male,2016,19,338,Other
+Female,2010,19,342,Other
+Male,2017,19,342,Other
+Male,2013,19,344,Other
+Female,2015,19,354,Other
+Male,2010,19,361,Other
+Male,2020,19,365,Other
+Male,2013,19,375,Other
+Female,2017,19,375,Other
+Female,2019,20,320,Other
+Female,2010,20,323,Other
+Female,2010,20,327,Other
+Female,2013,20,361,Other
+Female,2013,20,364,Other
+Male,2010,20,370,Other
+Male,2016,20,384,Other
+Female,2018,21,291,Other
+Male,2020,21,326,Other
+Male,2016,21,326,Other
+Male,2014,21,328,Other
+Male,2016,21,337,Other
+Male,2014,21,355,Other
+Male,2014,21,374,Other
+Female,2012,22,331,Other
+Male,2017,22,337,Other
+Male,2010,22,352,Other
+Female,2013,22,353,Other
+Female,2012,22,379,Other
+Female,2018,23,347,Other
+Male,2014,23,362,Other
+Female,2017,23,365,Other
+Male,2020,23,368,Other
+Female,2017,23,369,Other
+Female,2013,23,375,Other
+Male,2011,23,377,Other
+Female,2020,23,380,Other
+Female,2012,24,338,Other
+Female,2011,24,340,Other
+Male,2010,24,347,Other
+Male,2020,24,350,Other
+Male,2020,24,354,Other
+Female,2014,24,363,Other
+Female,2017,24,364,Other
+Female,2013,24,374,Other
+Male,2020,24,388,Other
+Female,2017,25,345,Other
+Male,2016,25,346,Other
+Female,2017,25,353,Other
+Female,2020,25,355,Other
+Male,2017,25,365,Other
+Male,2019,25,365,Other
+Female,2017,25,368,Other
+Male,2017,25,369,Other
+Female,2013,25,371,Other
+Male,2020,25,373,Other
+Male,2018,25,375,Other
+Male,2011,25,386,Other
+Male,2010,25,393,Other
+Female,2014,25,402,Other
+Male,2019,26,320,Other
+Male,2018,26,343,Other
+Female,2013,26,350,Other
+Male,2014,26,378,Other
+Female,2010,26,399,Other
+Female,2012,27,320,Other
+Female,2017,27,351,Other
+Female,2014,27,354,Other
+Male,2016,27,367,Other
+Male,2018,27,368,Other
+Female,2016,27,379,Other
+Male,2012,28,343,Other
+Male,2019,28,343,Other
+Female,2016,28,355,Other
+Male,2020,28,360,Other
+Male,2020,28,362,Other
+Female,2014,28,377,Other
+Female,2018,28,395,Other
+Male,2018,28,403,Other
+Female,2012,28,409,Other
+Male,2020,28,440,Other
+Male,2010,29,334,Other
+Female,2016,29,334,Other
+Female,2018,29,380,Other
+Female,2016,30,329,Other
+Unisex,2012,30,339,Other
+Female,2010,30,344,Other
+Male,2014,30,349,Other
+Male,2010,30,360,Other
+Male,2010,30,370,Other
+Male,2020,30,370,Other
+Female,2019,30,376,Other
+Male,2016,30,378,Other
+Unisex,2014,30,381,Other
+Female,2010,30,385,Other
+Male,2017,30,386,Other
+Male,2016,30,387,Other
+Male,2015,30,388,Other
+Female,2020,30,389,Other
+Male,2015,30,391,Other
+Female,2012,31,390,Other
+Female,2018,31,400,Other
+Female,2014,31,405,Other
+Female,2013,32,341,Other
+Male,2012,32,349,Other
+Female,2015,32,386,Other
+Male,2011,32,387,Other
+Male,2012,32,390,Other
+Male,2015,33,345,Other
+Male,2018,33,364,Other
+Male,2016,33,367,Other
+Female,2013,33,384,Other
+Male,2012,34,346,Other
+Male,2013,34,374,Other
+Male,2012,34,442,Other
+Female,2011,35,348,Other
+Male,2020,35,350,Other
+Female,2020,35,353,Other
+Male,2014,35,354,Other
+Female,2014,35,360,Other
+Female,2017,35,361,Other
+Female,2017,35,362,Other
+Male,2016,35,363,Other
+Male,2019,35,369,Other
+Unknown,2011,35,378,Other
+Female,2013,35,385,Other
+Male,2013,35,388,Other
+Female,2013,35,390,Other
+Male,2018,35,392,Other
+Female,2017,35,412,Other
+Female,2015,36,352,Other
+Male,2011,36,391,Other
+Male,2019,37,359,Other
+Female,2011,37,385,Other
+Male,2014,37,398,Other
+Male,2016,38,363,Other
+Female,2016,38,387,Other
+Male,2020,39,361,Other
+Female,2013,39,373,Other
+Male,2018,39,374,Other
+Male,2014,39,441,Other
+Male,2010,40,365,Other
+Female,2013,40,367,Other
+Female,2018,40,368,Other
+Female,2017,40,373,Other
+Female,2020,40,377,Other
+Male,2013,40,389,Other
+Female,2011,40,391,Other
+Male,2020,40,394,Other
+Female,2016,40,435,Other
+Male,2017,41,448,Other
+Male,2010,42,448,Other
+Female,2019,42,450,Other
+Male,2017,42,455,Other
+Female,2016,43,405,Other
+Male,2010,43,416,Other
+Female,2011,43,426,Other
+Male,2019,44,457,Other
+Male,2015,46,397,Other
+Male,2014,46,465,Other
+Female,2015,47,425,Other
+Male,2017,47,486,Other
+Male,2013,48,389,Other
+Male,2020,48,401,Other
+Female,2011,48,413,Other
+Male,2019,49,396,Other
+Male,2017,49,423,Other
+Male,2010,49,449,Other
+Female,2011,49,478,Other
+Female,2011,50,415,Other
+Male,2016,51,412,Other
+Female,2013,51,414,Other
+Male,2011,51,425,Other
+Male,2017,51,455,Other
+Female,2018,51,459,Other
+Female,2012,51,475,Other
+Male,2014,51,486,Other
+Female,2010,52,461,Other
+Male,2012,52,484,Other
+Female,2015,53,404,Other
+Male,2013,53,413,Other
+Female,2018,53,415,Other
+Male,2014,53,424,Other
+Male,2012,53,433,Other
+Male,2017,54,465,Other
+Female,2017,56,414,Other
+Female,2018,56,435,Other
+Male,2020,58,416,Other
+Male,2020,58,425,Other
+Female,2012,58,431,Other
+Female,2018,58,450,Other
+Female,2019,60,425,Other
+Female,2019,60,435,Other
+Male,2015,60,455,Other
+Female,2010,60,463,Other
+Male,2016,1,156,Robbery
+Female,2016,1,175,Robbery
+Male,2011,2,150,Robbery
+Female,2018,2,175,Robbery
+Male,2016,2,198,Robbery
+Male,2010,3,160,Robbery
+Female,2018,3,185,Robbery
+Male,2013,3,215,Robbery
+Female,2016,4,184,Robbery
+Male,2014,4,225,Robbery
+Male,2019,4,245,Robbery
+Male,2010,5,196,Robbery
+Male,2019,5,199,Robbery
+Male,2010,5,206,Robbery
+Male,2014,5,213,Robbery
+Female,2011,5,221,Robbery
+Female,2010,5,241,Robbery
+Female,2016,5,244,Robbery
+Female,2011,5,245,Robbery
+Male,2020,5,256,Robbery
+Male,2020,5,259,Robbery
+Female,2012,6,170,Robbery
+Male,2019,6,170,Robbery
+Male,2010,6,213,Robbery
+Unisex,2017,6,245,Robbery
+Female,2011,6,246,Robbery
+Male,2014,6,270,Robbery
+Male,2020,7,213,Robbery
+Male,2020,7,225,Robbery
+Male,2014,7,266,Robbery
+Male,2011,8,160,Robbery
+Female,2011,8,252,Robbery
+Female,2018,8,253,Robbery
+Male,2014,8,256,Robbery
+Male,2011,8,258,Robbery
+Male,2012,8,259,Robbery
+Male,2016,8,261,Robbery
+Male,2017,8,264,Robbery
+Female,2014,8,270,Robbery
+Male,2014,8,273,Robbery
+Unisex,2016,8,280,Robbery
+Female,2019,9,221,Robbery
+Female,2018,9,237,Robbery
+Unisex,2014,9,245,Robbery
+Female,2011,10,198,Robbery
+Female,2018,10,232,Robbery
+Male,2014,10,260,Robbery
+Female,2018,10,284,Robbery
+Female,2010,11,236,Robbery
+Female,2014,11,238,Robbery
+Male,2019,11,246,Robbery
+Female,2017,11,286,Robbery
+Female,2019,11,298,Robbery
+Female,2019,11,309,Robbery
+Female,2017,12,182,Robbery
+Female,2019,12,221,Robbery
+Female,2015,12,221,Robbery
+Male,2018,12,264,Robbery
+Female,2015,12,268,Robbery
+Male,2018,12,288,Robbery
+Male,2010,12,289,Robbery
+Male,2020,12,295,Robbery
+Unisex,2018,13,225,Robbery
+Male,2016,13,245,Robbery
+Female,2013,13,261,Robbery
+Female,2012,13,265,Robbery
+Male,2013,13,279,Robbery
+Female,2017,14,199,Robbery
+Female,2019,14,220,Robbery
+Male,2011,14,244,Robbery
+Male,2015,14,257,Robbery
+Male,2013,14,269,Robbery
+Female,2020,14,270,Robbery
+Male,2012,14,289,Robbery
+Male,2013,14,312,Robbery
+Male,2020,15,175,Robbery
+Female,2012,15,197,Robbery
+Female,2017,15,245,Robbery
+Female,2016,15,250,Robbery
+Male,2019,15,272,Robbery
+Female,2016,15,281,Robbery
+Male,2018,16,225,Robbery
+Female,2017,16,247,Robbery
+Male,2016,16,251,Robbery
+Female,2010,16,267,Robbery
+Female,2016,16,278,Robbery
+Male,2013,16,279,Robbery
+Male,2018,16,286,Robbery
+Female,2020,16,289,Robbery
+Female,2010,16,299,Robbery
+Female,2013,16,308,Robbery
+Male,2010,16,316,Robbery
+Female,2018,16,328,Robbery
+Male,2016,16,335,Robbery
+Female,2015,17,165,Robbery
+Female,2012,17,248,Robbery
+Male,2019,17,329,Robbery
+Male,2014,18,197,Robbery
+Female,2010,18,225,Robbery
+Male,2010,18,230,Robbery
+Female,2010,18,233,Robbery
+Male,2018,18,286,Robbery
+Male,2012,18,294,Robbery
+Female,2010,19,207,Robbery
+Male,2017,19,239,Robbery
+Female,2020,19,240,Robbery
+Female,2019,19,253,Robbery
+Unisex,2019,19,302,Robbery
+Female,2010,19,305,Robbery
+Female,2012,19,323,Robbery
+Female,2010,20,180,Robbery
+Unisex,2017,20,225,Robbery
+Male,2014,20,237,Robbery
+Male,2014,20,250,Robbery
+Female,2012,20,255,Robbery
+Female,2018,20,269,Robbery
+Female,2014,20,285,Robbery
+Female,2019,20,289,Robbery
+Female,2016,20,965,Robbery
+Female,2016,21,231,Robbery
+Male,2020,21,250,Robbery
+Male,2010,21,264,Robbery
+Female,2012,21,276,Robbery
+Male,2017,21,288,Robbery
+Male,2014,21,347,Robbery
+Female,2014,22,242,Robbery
+Male,2015,22,260,Robbery
+Female,2019,22,271,Robbery
+Male,2018,22,304,Robbery
+Female,2018,22,317,Robbery
+Male,2017,22,362,Robbery
+Female,2019,23,302,Robbery
+Female,2014,24,222,Robbery
+Female,2011,24,239,Robbery
+Male,2019,24,271,Robbery
+Female,2018,24,273,Robbery
+Male,2015,24,307,Robbery
+Male,2014,25,214,Robbery
+Male,2010,25,314,Robbery
+Unknown,2012,25,318,Robbery
+Female,2010,25,345,Robbery
+Female,2020,26,223,Robbery
+Male,2013,26,265,Robbery
+Female,2017,26,288,Robbery
+Male,2014,27,236,Robbery
+Male,2016,27,236,Robbery
+Female,2011,27,238,Robbery
+Male,2020,27,246,Robbery
+Female,2019,27,280,Robbery
+Male,2016,27,300,Robbery
+Male,2018,28,246,Robbery
+Female,2016,28,266,Robbery
+Female,2014,28,285,Robbery
+Female,2018,28,289,Robbery
+Male,2016,28,294,Robbery
+Male,2015,28,295,Robbery
+Male,2011,28,296,Robbery
+Female,2012,28,337,Robbery
+Male,2012,29,300,Robbery
+Female,2014,29,303,Robbery
+Male,2015,30,231,Robbery
+Female,2016,30,251,Robbery
+Male,2013,30,276,Robbery
+Male,2020,30,278,Robbery
+Female,2014,30,286,Robbery
+Female,2020,30,295,Robbery
+Male,2015,30,334,Robbery
+Male,2016,31,222,Robbery
+Male,2011,31,272,Robbery
+Male,2013,31,310,Robbery
+Male,2014,31,328,Robbery
+Male,2020,32,269,Robbery
+Male,2017,32,308,Robbery
+Male,2013,32,311,Robbery
+Female,2012,32,378,Robbery
+Female,2012,32,390,Robbery
+Male,2019,33,315,Robbery
+Female,2013,33,340,Robbery
+Male,2020,34,240,Robbery
+Female,2016,34,360,Robbery
+Female,2010,34,389,Robbery
+Male,2019,35,259,Robbery
+Male,2014,35,261,Robbery
+Female,2020,35,285,Robbery
+Male,2015,35,285,Robbery
+Male,2011,35,393,Robbery
+Female,2010,36,265,Robbery
+Male,2010,36,393,Robbery
+Female,2017,37,248,Robbery
+Male,2018,37,281,Robbery
+Male,2011,38,232,Robbery
+Female,2016,38,237,Robbery
+Female,2020,38,252,Robbery
+Female,2015,38,280.26,Robbery
+Female,2020,38,295,Robbery
+Male,2013,39,257,Robbery
+Male,2014,39,261,Robbery
+Male,2014,40,272,Robbery
+Female,2019,40,290,Robbery
+Male,2016,40,336,Robbery
+Male,2019,40,340,Robbery
+Female,2011,40,370,Robbery
+Male,2014,42,258,Robbery
+Female,2011,42,340,Robbery
+Male,2019,43,332,Robbery
+Female,2010,44,305,Robbery
+Female,2016,44,376,Robbery
+Male,2011,45,240,Robbery
+Male,2018,45,282,Robbery
+Female,2018,45,350,Robbery
+Male,2019,45,356,Robbery
+Male,2012,46,276,Robbery
+Female,2014,46,305,Robbery
+Female,2010,47,265,Robbery
+Female,2018,47,271,Robbery
+Female,2016,48,249,Robbery
+Female,2016,48,276,Robbery
+Female,2013,48,339,Robbery
+Female,2015,49,254,Robbery
+Female,2020,49,256,Robbery
+Male,2014,49,278,Robbery
+Female,2012,49,348,Robbery
+Male,2014,49,353,Robbery
+Female,2011,49,354,Robbery
+Female,2019,50,262,Robbery
+Female,2010,50,265,Robbery
+Female,2019,50,289,Robbery
+Female,2017,50,303,Robbery
+Female,2020,50,310,Robbery
+Male,2020,50,320,Robbery
+Male,2016,50,341,Robbery
+Female,2015,50,361,Robbery
+Male,2019,51,279,Robbery
+Unisex,2013,52,262.25,Robbery
+Male,2014,52,263,Robbery
+Female,2016,52,288,Robbery
+Female,2020,52,290,Robbery
+Female,2013,52,297,Robbery
+Male,2019,52,302,Robbery
+Male,2010,53,278,Robbery
+Female,2014,54,273,Robbery
+Female,2017,54,308,Robbery
+Female,2013,55,277,Robbery
+Male,2019,55,285,Robbery
+Female,2012,55,325,Robbery
+Male,2017,55,333,Robbery
+Male,2013,55,355,Robbery
+Unisex,2010,56,277,Robbery
+Male,2016,56,279,Robbery
+Male,2019,56,297,Robbery
+Male,2010,56,313,Robbery
+Male,2010,56,327,Robbery
+Male,2010,57,306,Robbery
+Male,2017,57,320,Robbery
+Male,2010,57,371,Robbery
+Female,2018,57,377,Robbery
+Female,2011,58,275,Robbery
+Female,2018,58,295,Robbery
+Male,2017,58,309,Robbery
+Male,2015,59,270,Robbery
+Female,2012,59,286,Robbery
+Female,2010,59,287,Robbery
+Female,2020,59,319,Robbery
+Male,2013,60,285,Robbery
+Male,2019,60,313,Robbery
+Female,2017,60,321,Robbery
+Female,2018,60,326,Robbery
+Male,2018,60,328,Robbery
+Male,2019,60,349,Robbery
+Male,2011,60,365,Robbery
